@@ -83,8 +83,8 @@ author:
   name             : "Rowan Brown"
   avatar           : "profile.png"
   bio              : "MSc student in numerical ocean modelling"
-  location         : "Edmonton, AB, Canada"
-  employer         : "University of Alberta"
+  location         : 
+  employer         : "University of Albert\nEdmonton, AB, Canada"
   email            : "rowan.brown@ualberta.ca"
   researchgate     : "https://www.researchgate.net/profile/Rowan-Brown-3"
   uri              :
