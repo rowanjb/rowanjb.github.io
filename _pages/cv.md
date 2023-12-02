@@ -12,38 +12,24 @@ redirect_from:
 Education
 ======
 * M.Sc. Earth and Atmospheric Sciences, University of Alberta, 2024
-<!---
   * Concentration in physical oceanography/numerical modelling
   * Supervisor: Dr. Paul Myers
---->
 * B.Eng. in Ocean and Naval Architectural Engineering, Memorial University of Newfoundland, 2020
-<!---
   * Equivalent requirements for a Minor in Mathematics completed, 2021
   * Capstone projects: design of an oceanography glider; design of an Arctic warship
---->
 
 Awards
 ======
 * $1,500 Roy Dean Hibbs Memorial Travel Award, 2023
-<!---
   * Awarded for a strong presentation at the 2023 Institute for Geophysical Research fall symposium in support of presenting at the 2024 NEMO DRAKKAR meeting in Grenoble, France.
---->
 * $17,500 Canada Graduate Scholarship - Master's (CGS M), 2023
-<!---
   * National competition awarded for academic excellence and a promising M.Sc. research proposal. Administered by the Natural Sciences and Engineering Research Council of Canada (NSERC).
---->
 * $7,100 Walter H Johns Graduate Fellowship, 2023
-<!---
   * Top-up award from the University of Alberta for CGS M winners.
---->
 * $6,000 Mitacs Globalink Research Award, 2019
-<!---
   * Awarded in support of a research internship at Aalto University in Helsinki, Finland.
---->
 * $2,800 Professor Bill Milne Memorial Scholarship
-<!---
   * Awarded for high academic standing and involvement in a professional association.
---->
 
 Relevant experience
 ======
@@ -70,40 +56,11 @@ the Labrador Sea using the NEMO ocean model
   * Designed scenarios for a maritime simulator
   * Contributed to experimental design and an ethics application
 
-<!---
-Skills 
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
---->
-
 Significant works
 ======
 * **Brown, R.**, & Myers, P. G. (2023, November 7). *Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models* [Conference presentation]. Institute for Geophysical Research fall symposium 2023, Edmonton, AB, Canada.
 * **Brown, R.**, & Myers, P. G. (2023, March 15–17). *Investigating mixing processes within the Labrador Sea using simulations at resolutions consistent with coupled climate models* [Conference presentation]. Northern Research Days 2023, Edmonton, AB, Canada.
 * Manzur Tirado, A. M., **Brown, R.**, & Valdez Banda, O. A. (2019). [*Risk and safety management of autonomous systems: a literature review and initial proposals for the maritime industry*](http://urn.fi/URN:ISBN:978-952-60-8499-2). Aalto University publication series SCIENCE + TECHNOLOGY 1/2019, 1–66.
-
-<!---
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
---->
 
 Additional experiences and competencies
 ======
