@@ -10,13 +10,13 @@ redirect_from:
 
 This is a website build in progress!
 
-My name is Rowan Brown, and I'm a second year MSc student in Earth and Atmospheric Sciences at the University of Alberta. My background is in engineering, having graduated with a BEng in Ocean and Naval Architectural Engineering from Memorial University of Newfoundland in 2020. 
+My name is Rowan Brown, and I'm a second year MSc student in [Earth and Atmospheric Sciences at the University of Alberta](https://www.ualberta.ca/earth-sciences/index.html). My background is in engineering, having graduated with a BEng from the one-of-a-kind [Ocean and Naval Architectural Engineering program at Memorial University of Newfoundland](https://www.mun.ca/engineering/ona/) in 2020. 
 
 Interests
 ======
 * Climate change
-* Geophysical fluid dynamics 
-* Polar oceanography, especially the submesoscale
+* Geophysical fluid dynamics, especially the submesoscale
+* Polar oceanography
 * Everything about sea ice, from long-term trends to small-scale mechanics
 * History and literature around oceanography and polar exploration, e.g., 
   * *The Sea Around Us* by Rachel Carson
@@ -24,9 +24,9 @@ Interests
 
 It was at Memorial that I first developed an interest in polar oceanography and sea ice, where classes in physical oceanography and Arctic engineering inflamed a curiosity that eventually led me to read *The Sea Around Us* by Rachel Carson and *South* by Ernest Shackleton. From then on I was determined to pursue a career in polar oceanography---though if I ever make to Antarctica myself, I hope to avoid any Shackleton-style snafus. 
 
-Currently, I am studying mixing in the Labrador Sea under the supervision of Dr Paul Myers. I am specifically studying the effects of two processes on deep convection: tidal forcing and the parameterization for submesoscale mixed layer eddies (SMLEs). The research is in its early days, but if nothing else, it's at least giving me some pretty pictures! 
+Currently, I am studying mixing in the Labrador Sea under the supervision of Dr Paul Myers. I am specifically studying the effects of two processes on deep convection: tidal forcing and the parameterization for submesoscale mixed layer eddies (SMLEs). The research is in its early days, but if nothing else, it's at least given me some pretty pictures! 
 
-Average winter mixed layer depth in the interior Labrador Sea (within the 2000 m isobath) over 2010--2020: 
+Average winter mixed layer depth in the interior Labrador Sea (within the 2000 m isobath) over 2010--2020 
 ![Average winter MLD in the interior Lab Sea over 10 years](/images/winterBarChartMLD_LS2k.png)
 
 Maximum mixed layer depths experienced over ~20 years in a simulation with tidal forcing and the SMLE parameterization: 
@@ -34,6 +34,4 @@ Maximum mixed layer depths experienced over ~20 years in a simulation with tidal
 
 Snapshot of eddy kinetic energy demonstrating, if nothing else, what a 1/4 degree model resolution looks like:
 ![EKE in EPM155 on 2008-06-02](/images/EKE_EPM155_2008-06-02.png)
-
-
 
