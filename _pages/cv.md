@@ -11,21 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. Earth and Atmospheric Sciences, University of Alberta, 2024
+  * Concentration in physical oceanography/numerical modelling
+  * Supervisor: Dr. Paul Myers
+* B.Eng. in Ocean and Naval Architectural Engineering, Memorial University of Newfoundland, 2020
+  * Equivalent requirements for a Minor in Mathematics completed, 2021
+  * Capstone projects: design of an oceanography glider; design of an Arctic warship
 
-Work experience
+Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* $1,500 Roy Dean Hibbs Memorial Travel Award, 2023
+* $17,500 Canada Graduate Scholarship - Master's (CGS M), 2023
+* $7,100 Walter H Johns Graduate Fellowship, 2023
+* $6,000 Mitacs Globalink Research Award, 2019
+* $2,800 Professor Bill Milne Memorial Scholarship
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Relevant experience
+======
+* Jul 2022--Jun 2024: Graduate research assistant fellowship, University of Alberta, Edmonton, AB, Canada
+  * Studying physical oceanography and numerical modelling
+  * Researching the effects of tides and submesoscale mixed layer eddies on deep convection in
+the Labrador Sea using the NEMO ocean model
+  * Computations are run on Compute Canada supercomputers
+  * Data is analysed in Python and MATLAB
+
+* Oct 2021--Feb 2022: Ocean engineer, Oceans Limited, St. John's, NL, Canada
+  * Programmed vessel motions prediction software using MATLAB and C++
+  * Researched new methods of wave spectra prediction using machine learning (Python and Keras)
+  * Performed outfitting and CAD modelling of weather buoys
+
+* Jan 2019--Apr 2019: Research assistant in maritime safety engineering, Aalto University, Helsinki, Finland
+  * Supported by Mitacs Globalink Research Award
+  * Co-authored 66-page report on safety management of autonomous maritime systems
+  * Performed extensive literature review and SWOT analyses
+
+* May 2018--Aug 2018: Research assistant in human factors engineering, Memorial University
+  * Researched methods for managing sea ice in the offshore industry
+  * Analysed human-factors experimental data using MATLAB
+  * Designed scenarios for a maritime simulator
+  * Contributed to experimental design and an ethics application
   
 Skills
 ======
@@ -54,6 +78,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Additional experiences and competencies
 ======
-* Currently signed in to 43 different slack teams
+* <bf>{Volunteering<bf>: Social convener and oceanography representative for the Earth and Atmospheric
+Sciences graduate students’ society (2022–2023)
+* <bf>Languages<bf>: English (native) and French (intermediate/B1)
+* <bf>Memberships<bf>: The Canadian Meteorological and Oceanographic Society; The American Geophysical Union; The Society of Naval Architects and Marine Engineers
