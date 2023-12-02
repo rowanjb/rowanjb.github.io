@@ -11,9 +11,9 @@ title                    : "Rowan Brown"
 title_separator          : "-"
 name                     : &name "Rowan Brown"
 description              : &description "personal website"
-url                      : https://rowanjbrown.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #"rowanjbrown" # the subpath of your site, e.g. "/blog"
-repository               : "rowanjbrown/rowanjbrown.github.io"
+url                      : https://rowanjb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"rowanjb" # the subpath of your site, e.g. "/blog"
+repository               : "rowanjb/rowanjb.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rowanjbrown"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
