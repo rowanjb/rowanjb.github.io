@@ -19,8 +19,8 @@ Interests
 * Polar oceanography
 * Everything about sea ice, from long-term trends to small-scale mechanics
 * History and literature around oceanography and polar exploration, e.g., 
-  * *The Sea Around Us* by Rachel Carson
-  * *South* by Ernest Shackleton
+  * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
+  * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
 
 It was at Memorial that I first developed an interest in polar oceanography and sea ice, where classes in physical oceanography and Arctic engineering inflamed a curiosity that eventually led me to read *The Sea Around Us* by Rachel Carson and *South* by Ernest Shackleton. From then on I was determined to pursue a career in polar oceanography---though if I ever make to Antarctica myself, I hope to avoid any Shackleton-style snafus. 
 
