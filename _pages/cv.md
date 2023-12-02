@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * M.Sc. Earth and Atmospheric Sciences, University of Alberta, 2024
   * Concentration in physical oceanography/numerical modelling
   * Supervisor: Dr. Paul Myers
@@ -19,7 +19,7 @@ Education
   * Capstone projects: design of an oceanography glider; design of an Arctic warship
 
 Awards
-======
+------
 * $1,500 Roy Dean Hibbs Memorial Travel Award, 2023
   * Awarded for a strong presentation at the 2023 Institute for Geophysical Research fall symposium in support of presenting at the 2024 NEMO DRAKKAR meeting in Grenoble, France.
 * $17,500 Canada Graduate Scholarship - Master's (CGS M), 2023
@@ -32,7 +32,7 @@ Awards
   * Awarded for high academic standing and involvement in a professional association.
 
 Relevant experience
-======
+------
 * Jul 2022--Jun 2024: Graduate research assistant fellowship, University of Alberta, Edmonton, AB, Canada
   * Studying physical oceanography and numerical modelling
   * Researching the effects of tides and submesoscale mixed layer eddies on deep convection in
@@ -57,13 +57,13 @@ the Labrador Sea using the NEMO ocean model
   * Contributed to experimental design and an ethics application
 
 Significant works
-======
+------
 * **Brown, R.**, & Myers, P. G. (2023, November 7). *Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models* [Conference presentation]. Institute for Geophysical Research fall symposium 2023, Edmonton, AB, Canada.
 * **Brown, R.**, & Myers, P. G. (2023, March 15–17). *Investigating mixing processes within the Labrador Sea using simulations at resolutions consistent with coupled climate models* [Conference presentation]. Northern Research Days 2023, Edmonton, AB, Canada.
 * Manzur Tirado, A. M., **Brown, R.**, & Valdez Banda, O. A. (2019). [*Risk and safety management of autonomous systems: a literature review and initial proposals for the maritime industry*](http://urn.fi/URN:ISBN:978-952-60-8499-2). Aalto University publication series SCIENCE + TECHNOLOGY 1/2019, 1–66.
 
 Additional experiences and competencies
-======
+------
 * Volunteering: Social convener and oceanography representative for the Earth and Atmospheric
 Sciences graduate students’ society (2022–2023)
 * Languages: English (native) and French (intermediate/B1)
