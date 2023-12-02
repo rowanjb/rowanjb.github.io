@@ -10,7 +10,7 @@ redirect_from:
 
 This is a website build in progress!
 
-My name is Rowan Brown, and I'm a second year MSc student in [Earth and Atmospheric Sciences at the University of Alberta](https://www.ualberta.ca/earth-sciences/index.html). My background is in engineering, having graduated with a BEng from the one-of-a-kind [Ocean and Naval Architectural Engineering program at Memorial University of Newfoundland](https://www.mun.ca/engineering/ona/) in 2020. 
+My name is Rowan and I'm a second year MSc student in [Earth and Atmospheric Sciences at the University of Alberta](https://www.ualberta.ca/earth-sciences/index.html). My background is in engineering, having graduated with a BEng from the one-of-a-kind [Ocean and Naval Architectural Engineering program at Memorial University of Newfoundland](https://www.mun.ca/engineering/ona/) in 2020. 
 
 Interests
 ======
