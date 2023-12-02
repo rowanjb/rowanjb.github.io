@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ------
-* **M.Sc. Earth and Atmospheric Sciences**, University of Alberta, 2024
+* **MSc Earth and Atmospheric Sciences**, University of Alberta, 2024
   * Concentration in physical oceanography/numerical modelling
-  * Supervisor: Dr. Paul Myers
-* **B.Eng. in Ocean and Naval Architectural Engineering**, Memorial University of Newfoundland, 2020
+  * Supervisor: Dr Paul Myers
+* **BEng in Ocean and Naval Architectural Engineering**, Memorial University of Newfoundland, 2020
   * Equivalent requirements for a Minor in Mathematics completed, 2021
   * Capstone projects: design of an oceanography glider; design of an Arctic warship
 
@@ -55,6 +55,10 @@ the Labrador Sea using the NEMO ocean model
   * Analysed human-factors experimental data using MATLAB
   * Designed scenarios for a maritime simulator
   * Contributed to experimental design and an ethics application
+
+The elephant in the room
+------
+* Astute readers might wonder how I spent my time post-BEng and pre-MSc; check out this blog post explaining how I spent my time. 
 
 Significant works
 ------
