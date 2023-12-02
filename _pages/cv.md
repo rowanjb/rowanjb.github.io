@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+Education
 ======
 * M.Sc. Earth and Atmospheric Sciences, University of Alberta, 2024
 <!---
@@ -69,8 +69,9 @@ the Labrador Sea using the NEMO ocean model
   * Analysed human-factors experimental data using MATLAB
   * Designed scenarios for a maritime simulator
   * Contributed to experimental design and an ethics application
-  
-Skills
+
+<!---
+Skills 
 ======
 * Skill 1
 * Skill 2
@@ -78,28 +79,35 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+--->
 
-Publications
+Significant works
 ======
+* **Brown, R.**, & Myers, P. G. (2023, November 7). *Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models* [Conference presentation]. Institute for Geophysical Research fall symposium 2023, Edmonton, AB, Canada.
+* **Brown, R.**, & Myers, P. G. (2023, March 15–17). *Investigating mixing processes within the Labrador Sea using simulations at resolutions consistent with coupled climate models* [Conference presentation]. Northern Research Days 2023, Edmonton, AB, Canada.
+* Manzur Tirado, A. M., **Brown, R.**, & Valdez Banda, O. A. (2019). [*Risk and safety management of autonomous systems: a literature review and initial proposals for the maritime industry*](http://urn.fi/URN:ISBN:978-952-60-8499-2). Aalto University publication series SCIENCE + TECHNOLOGY 1/2019, 1–66.
+
+<!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+--->
+
 Additional experiences and competencies
 ======
-* <bf>Volunteering</bf>: Social convener and oceanography representative for the Earth and Atmospheric
+* Volunteering: Social convener and oceanography representative for the Earth and Atmospheric
 Sciences graduate students’ society (2022–2023)
-* <bf>Languages</bf>: English (native) and French (intermediate/B1)
-* <bf>Memberships</bf>: The Canadian Meteorological and Oceanographic Society; The American Geophysical Union; The Society of Naval Architects and Marine Engineers
+* Languages: English (native) and French (intermediate/B1)
+* Memberships: The Canadian Meteorological and Oceanographic Society; The American Geophysical Union; The Society of Naval Architects and Marine Engineers
