@@ -10,13 +10,13 @@ redirect_from:
 
 This is a website build in progress!
 
-My name is Rowan, and I'm a second year MSc student in [Earth and Atmospheric Sciences at the University of Alberta](https://www.ualberta.ca/earth-sciences/index.html). My background is in engineering, having graduated with a BEng from the one-of-a-kind program in [Ocean and Naval Architectural Engineering at Memorial University of Newfoundland](https://www.mun.ca/engineering/ona/) in 2020. 
+My name is Rowan, and I'm a second year MSc student in [Earth and Atmospheric Sciences at the University of Alberta](https://www.ualberta.ca/earth-sciences/index.html) currently on the lookout for PhD opportunities. My background is in engineering, having graduated with a BEng from the one-of-a-kind program in [Ocean and Naval Architectural Engineering at Memorial University of Newfoundland](https://www.mun.ca/engineering/ona/) in 2020. 
 
 Interests
 ======
 * Anthropogenic climate change
 * Geophysical fluid dynamics, especially the submesoscale
-* Polar oceanography and everything about sea ice, from the long-term trends to tne small-scale mechanics
+* Polar oceanography and everything about sea ice, from the long-term trends to the small-scale mechanics
 * History and literature around oceanography and polar exploration, e.g., 
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
