@@ -1,7 +1,7 @@
 ---
 title: 'The elephant in the room'
 date: 2023-12-02
-permalink: /posts/2023/12/blog-post-1/
+permalink: /posts/2023/12/The-elephant-in-the-room/
 ---
 
 When applying to jobs and grad programs, I've been told it's wise to explain any gaps in employment and education. Without wanting to seem too self-absorbed, this is a complete overview of how I spent my time between getting my BEng in May 2020 and starting my MSc in July 2022. 

@@ -58,7 +58,7 @@ the Labrador Sea using the NEMO ocean model
 
 The elephant in the room
 ------
-* Astute readers might wonder how I spent my time post-BEng and pre-MSc; check out [this blog post](/posts/2023/12/blog-post-1/) for an explanation.  
+* Astute readers might wonder how I spent my time post-BEng and pre-MSc; check out [this blog post](https://rowanjb.github.io/posts/2023/12/The-elephant-in-the-room/) for an explanation.  
 
 Significant works
 ------
