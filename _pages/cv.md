@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* **MSc Earth and Atmospheric Sciences**, University of Alberta, 2024
+* **MSc in Earth and Atmospheric Sciences**, University of Alberta, 2024
   * Concentration in physical oceanography/numerical modelling
   * Supervisor: Dr Paul Myers
 * **BEng in Ocean and Naval Architectural Engineering**, Memorial University of Newfoundland, 2020
@@ -58,7 +58,7 @@ the Labrador Sea using the NEMO ocean model
 
 The elephant in the room
 ------
-* Astute readers might wonder how I spent my time post-BEng and pre-MSc; check out [this blog post](https://rowanjb.github.io/posts/2023/12/The-elephant-in-the-room/) for an explanation.  
+* Astute readers might wonder how I spent my time post-BEng and pre-MSc; check out [this blog post](https://rowanjb.github.io/posts/2023/12/The-elephant-in-the-room/) for a complete explanation.  
 
 Significant works
 ------
