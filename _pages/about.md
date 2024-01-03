@@ -10,20 +10,19 @@ redirect_from:
 
 This is a website build in progress!
 
-My name is Rowan, and I'm a second year MSc student in [Earth and Atmospheric Sciences at the University of Alberta](https://www.ualberta.ca/earth-sciences/index.html) currently on the lookout for PhD opportunities. My background is in engineering, having graduated with a BEng from the one-of-a-kind program in [Ocean and Naval Architectural Engineering at Memorial University of Newfoundland](https://www.mun.ca/engineering/ona/) in 2020. 
+My name is Rowan, and I will soon be starting a PhD studying ocean convection (as part of the [VERTEXSO](https://cordis.europa.eu/project/id/101041743) project) under the supervision of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.en.geo.uni-muenchen.de/index.html) and the [Alfred Wegener Institute](https://www.awi.de). Currently, I am finishing me MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My background is in engineering, having graduated with a BEng from the one-of-a-kind program in [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/)  at Memorial University of Newfoundland. 
 
 Interests
 ======
-* Anthropogenic climate change
-* Geophysical fluid dynamics, especially the submesoscale
-* Polar oceanography and everything about sea ice, from the long-term trends to the small-scale mechanics
+* General Circulation Models (GCMs)
+* Submesoscale geophysical fluid dynamics, and especially... 
+* Ocean convection! (Which is the focus of both my MSc and PhD)
+* Polar oceanography and sea ice
 * History and literature around oceanography and polar exploration, e.g., 
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
 
-It was at Memorial that I first developed an interest in polar oceanography and sea ice, where classes in physical oceanography and Arctic engineering inflamed a curiosity that eventually led me to read *The Sea Around Us* by Rachel Carson and *South* by Ernest Shackleton. From then on I was determined to pursue a career in polar oceanography---though if I ever make to Antarctica myself, I hope to avoid any Shackleton-style snafus. 
-
-Currently, I am studying mixing in the Labrador Sea using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). I am specifically studying the effects of two processes on deep convection: tidal forcing and the [Fox-Kemper parameterization for submesoscale mixed layer eddies](https://doi.org/10.1175/2007JPO3792.1) (SMLEs). The research is in its early days, but if nothing else, it's at least given me some pretty pictures! 
+In my MSc, I am studying mixing in the Labrador Sea using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). I am specifically studying the effects of two processes on deep convection: tidal forcing and the [Fox-Kemper parameterization for submesoscale mixed layer eddies](https://doi.org/10.1175/2007JPO3792.1) (SMLEs). The research is ongoing, but if nothing else, it's at least given me some pretty pictures! 
 
 Some recent figures
 ======

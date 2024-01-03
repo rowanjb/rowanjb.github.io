@@ -13,7 +13,7 @@ Education
 ------
 * **MSc in Earth and Atmospheric Sciences**, University of Alberta, 2024
   * Concentration in physical oceanography/numerical modelling
-  * Supervisor: Dr Paul Myers
+  * Supervisor: Dr. Paul Myers
 * **BEng in Ocean and Naval Architectural Engineering**, Memorial University of Newfoundland, 2020
   * Equivalent requirements for a Minor in Mathematics completed, 2021
   * Capstone projects: design of an oceanography glider; design of an Arctic warship
@@ -21,15 +21,10 @@ Education
 Awards
 ------
 * $1,500 Roy Dean Hibbs Memorial Travel Award, 2023
-  * Awarded for a strong presentation at the 2023 Institute for Geophysical Research fall symposium in support of presenting at the 2024 NEMO DRAKKAR meeting in Grenoble, France.
 * $17,500 Canada Graduate Scholarship - Master's (CGS M), 2023
-  * National competition awarded for academic excellence and a promising M.Sc. research proposal. Administered by the Natural Sciences and Engineering Research Council of Canada (NSERC).
 * $7,100 Walter H Johns Graduate Fellowship, 2023
-  * Top-up award from the University of Alberta for CGS M winners.
 * $6,000 Mitacs Globalink Research Award, 2019
-  * Awarded in support of a research internship at Aalto University in Helsinki, Finland.
 * $2,800 Professor Bill Milne Memorial Scholarship
-  * Awarded for high academic standing and involvement in a professional association.
 
 Relevant experience
 ------
@@ -55,10 +50,6 @@ the Labrador Sea using the NEMO ocean model
   * Analysed human-factors experimental data using MATLAB
   * Designed scenarios for a maritime simulator
   * Contributed to experimental design and an ethics application
-
-The elephant in the room
-------
-* Astute readers might wonder how I spent my time post-BEng and pre-MSc; check out [this blog post](https://rowanjb.github.io/posts/2023/12/The-elephant-in-the-room/) for a complete explanation.  
 
 Significant works
 ------
