@@ -10,13 +10,13 @@ redirect_from:
 
 This is a website build in progress!
 
-My name is Rowan, and I will soon be starting a PhD studying ocean convection (as part of the [VERTEXSO](https://cordis.europa.eu/project/id/101041743) project) under the supervision of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.en.geo.uni-muenchen.de/index.html) and the [Alfred Wegener Institute](https://www.awi.de). Currently, I am finishing me MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My background is in engineering, having graduated with a BEng from the one-of-a-kind program in [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/)  at Memorial University of Newfoundland. 
+My name is Rowan, and I will soon be starting a PhD studying ocean convection (as part of the [VERTEXSO](https://cordis.europa.eu/project/id/101041743) project) under the supervision of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.en.geo.uni-muenchen.de/index.html) and the [Alfred Wegener Institute](https://www.awi.de). Currently, I am finishing my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My background is in engineering, having graduated with a BEng from the one-of-a-kind program in [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/)  at Memorial University of Newfoundland. 
 
 Interests
 ======
-* General Circulation Models (GCMs)
-* Submesoscale geophysical fluid dynamics, and especially... 
-* Ocean convection! (Which is the focus of both my MSc and PhD)
+* General Circulation Modelling
+* Submesoscale fluid dynamics, and especially... 
+* Ocean convection!
 * Polar oceanography and sea ice
 * History and literature around oceanography and polar exploration, e.g., 
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
