@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ------
-* **MSc in Earth and Atmospheric Sciences**, University of Alberta, 2024
+* **MSc Earth and Atmospheric Sciences**, University of Alberta, 2024
   * Concentration in physical oceanography/numerical modelling
   * Supervisor: Dr. Paul Myers
-* **BEng in Ocean and Naval Architectural Engineering**, Memorial University of Newfoundland, 2020
-  * Equivalent requirements for a Minor in Mathematics completed, 2021
-  * Capstone projects: design of an oceanography glider; design of an Arctic warship
+* **BEng Ocean and Naval Architectural Engineering**, Memorial University of Newfoundland, 2020
+  * Equivalent requirements for a Minor in Mathematics completed in 2021
+  * Capstone projects: design of an oceanographic glider; design of an Arctic warship
 
 Awards
 ------
@@ -24,7 +24,7 @@ Awards
 * $17,500 Canada Graduate Scholarship - Master's (CGS M), 2023
 * $7,100 Walter H Johns Graduate Fellowship, 2023
 * $6,000 Mitacs Globalink Research Award, 2019
-* $2,800 Professor Bill Milne Memorial Scholarship
+* $2,800 Professor Bill Milne Memorial Scholarship, 2017
 
 Relevant experience
 ------
