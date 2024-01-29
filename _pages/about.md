@@ -10,7 +10,7 @@ redirect_from:
 
 This is a website build in progress!
 
-My name is Rowan, and ...
+My name is Rowan, and I will soon be starting a PhD studying ocean convection (as part of the [VERTEXSO](https://cordis.europa.eu/project/id/101041743) project) under the supervision of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.en.geo.uni-muenchen.de/index.html) and the [Alfred Wegener Institute](https://www.awi.de). Currently, I am finishing my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My background is in engineering, having graduated with a BEng from the one-of-a-kind program in [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/)  at Memorial University of Newfoundland. 
 
 Interests
 ======
