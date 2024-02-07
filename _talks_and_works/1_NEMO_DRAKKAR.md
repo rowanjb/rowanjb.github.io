@@ -5,3 +5,5 @@ collection: talk_and_works
 ---
 
 * Words to come
+
+![My poster](/images/Brown_POSTER.png)
