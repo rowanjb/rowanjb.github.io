@@ -14,7 +14,7 @@ redirect_from:
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
-  * _past_talks_and_works/
+  * _talks_and_works/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
