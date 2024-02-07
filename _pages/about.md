@@ -26,12 +26,9 @@ In my MSc, I am studying mixing in the Labrador Sea using the [NEMO ocean model]
 Some recent figures
 ======
 
-Average winter mixed layer depth in the interior Labrador Sea (within the 2000 m isobath) over 2010--2020. Two atmospheric forcing products are examined, CGRF and ERA-Interim. 
-![Average winter MLD in the interior Lab Sea over 10 years](/images/winterBarChartMLD_LS2k.png)
+Average winter mixed layer depths (MLDs) in the interior Labrador Sea (within the 3,000 m isobath) over 2007--2018. Two atmospheric forcing products are considered, CGRF and ERA-Interim. The headline result is that tides and the Fox-Kemper parameterization for submesoscale mixed layer eddies both seem to reduce MLD biases compared to Argo observations. 
+![Average winter MLD in the interior Lab Sea](/images/MLDs.png)
 
-Maximum mixed layer depths experienced over ~20 years in a simulation with tidal forcing and the SMLE parameterization.
-![Max MLD in the Lab Sea in EPM155](/images/EPM155_max_MLD_map_LS.png)
-
-Snapshot of eddy kinetic energy demonstrating, if nothing else, what a 1/4 degree model resolution looks like.
-![EKE in EPM155 on 2008-06-02](/images/EKE_EPM155_2008-06-02.png)
+One possible explanation comes from altered boundary current-interior fluxes
+![Heat flux into the interior Lab Sea](/images/heatFlux.png)
 
