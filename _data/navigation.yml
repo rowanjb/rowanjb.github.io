@@ -3,6 +3,10 @@ main:
     
   - title: "CV"
     url: /cv/
+        
+  - title: "Blog"
+    url: /year-archive/
     
-  - title: "Talks and works"
-    url: /talks_and_works/
+  - title: "Portfolio"
+    url: /portfolio/
+

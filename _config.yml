@@ -179,7 +179,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks_and_works:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -225,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks_and_works
+  # _portfolio
   - scope:
       path: ""
-      type: talk_and_works
+      type: portfolio
     values:
       layout: single
       author_profile: true
