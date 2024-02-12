@@ -63,4 +63,4 @@ Additional experiences and competencies
 * **Volunteering**: Social convener and oceanography representative for the Earth and Atmospheric
 Sciences graduate students’ society (2022–2023)
 * **Languages**: English (native) and French (intermediate/B1)
-* **Memberships**: The Canadian Meteorological and Oceanographic Society; The American Geophysical Union; The Society of Naval Architects and Marine Engineers
+* **Memberships**: The Canadian Meteorological and Oceanographic Society; The Society of Naval Architects and Marine Engineers
