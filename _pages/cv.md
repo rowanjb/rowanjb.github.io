@@ -18,8 +18,10 @@ Education
   * Equivalent requirements for a Minor in Mathematics completed in 2021
   * Capstone projects: design of an oceanographic glider; design of an Arctic warship
 
-Awards
+Awards and honours
 ------
+* $1,500 Faculty of Graduate & Postdoctoral Studies Travel Award, 2024
+* $500 Graduate Students' Association Academic Travel Grant, 2024
 * $1,500 Roy Dean Hibbs Memorial Travel Award, 2023
 * $17,500 Canada Graduate Scholarship - Master's (CGS M), 2023
 * $7,100 Walter H Johns Graduate Fellowship, 2023
