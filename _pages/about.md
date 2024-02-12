@@ -14,14 +14,15 @@ My name is Rowan, and I will soon be starting a PhD studying Southern Ocean conv
 
 Interests
 ======
-* Numerical modelling, including GCM and LES models
-* Submesoscale fluid dynamics, and especially ocean convection
+* Numerical modelling, including general circulation models and large eddy simulation
+* Submesoscale (and smaller) fluid dynamics, especially ocean convection
 * Polar oceanography and sea ice
 * History and literature around oceanography and polar exploration, e.g., 
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
+  * I'm currently reading [*At the Mountains of Madness*](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) by H. P. Lovecraft, which is a good yarn and mercifully, unlike the above two, completely fiction
 
-In my MSc, I am studying mixing in the Labrador Sea using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). I am specifically studying the effects of two processes on deep convection: tidal forcing and the [Fox-Kemper parameterization for submesoscale mixed layer eddies](https://doi.org/10.1175/2007JPO3792.1) (SMLEs). This research is ongoing, but if nothing else, it has at least given me some pretty pictures.
+In my MSc, I am studying mixing in the Labrador Sea using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). I am specifically studying the effects of two processes on deep convection: tidal forcing and the [Fox-Kemper parameterization for submesoscale mixed layer eddies](https://doi.org/10.1175/2007JPO3792.1) (SMLEs). This research is ongoing, but if nothing else, it has at least given me some pretty pictures, shown below. 
 
 Some recent figures
 ======
