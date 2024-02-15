@@ -1,18 +1,24 @@
 ---
 title: "Master's research proposal"
-excerpt: "Proposal for my master's research"
+excerpt: "My best guess circa early 2023 on the direction of my MSc research."
 collection: portfolio
 ---
 
-# Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models
+*My best guess circa March 2023 on the focus of my MSc. My research ended up veering in a slightly unforeseen direction, but the proposal lives on here as a de facto writing sample.*
+
+## Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models
 
 Master's thesis proposal
+
 Rowan Brown
+
 Supervisor: Paul Myers
+
 Earth and Atmospheric Sciences
+
 March 9, 2023
 
-## Introduction
+### Introduction
 
 It is estimated that human activity has caused an increase of at least 1.0 °C in mean air temperature compared to pre-industrial levels, and that the current rate of emissions will lead to an additional increase of 3.7 °C by the end of the current century (Pörtner et al., 2019). The potential effects of this warming process on the hydrosphere are diverse, and include changes in ocean circulation, temperature, oxygen content, and acidity, which in turn pose risks such as increased flooding due to sea level rise, decreased biodiversity, and threats to food and water security.
 
@@ -22,7 +28,7 @@ A fundamental role of the ocean is the uptake and redistribution of heat, anthro
 
 There is therefore an important relationship between deep convection in the LS and the wider Earth system via (1) its role in the large-scale circulation and (2) its role as a conduit for dissolved gases entering the deep Atlantic. In this proposal, an overview on LS deep convection and its representation in numerical models is given. The following three salient questions are then identified: how accurate is the representation of LS deep convection when including (1) the parameterization for restratification proposed by Fox-Kemper et al. (2008) (hereafter referred to as the Fox-Kemper scheme) and (2) tidal forcing? And (3) what are the pathways of deep water out of the LS when using these two schemes? I propose to investigate these questions, specifically using a numerical model with a resolution consistent with large-scale coupled climate models. My results might then be used to inform future large-scale modelling studies by identifying when the two aforementioned schemes should be employed.
 
-## Background
+### Background
 
 Deep convection in the LS occurs when heat loss from the ocean to the atmosphere causes surface waters to become denser and sink. This facilitates the exchange of dissolved gases and heat between the atmosphere and the deep ocean. It also results in the production of Labrador Sea Water (LSW), which is distinctly characterized by low salinity and high concentrations of oxygen and anthropogenic carbon dioxide (Rhein et al., 2017). These characteristics allow it to be identified throughout deep North Atlantic, where it is exported as part of the AMOC lower limb.
 
@@ -32,7 +38,7 @@ It is useful to consider deep convection in the following three stages: precondi
 
 ![Fig. 1](/images/MScProposalFig1.png)
 
-**Fig. 1** The three stages of deep convection: (I) preconditioning, (II) active deep convection, and (III) lateral exchange. Arrows represent buoyancy flux through the surface. Fluid that is overturned and mixed is lightly shaded. Reproduced from Lab Sea Group (1998).
+**Fig. 1** *The three stages of deep convection: (I) preconditioning, (II) active deep convection, and (III) lateral exchange. Arrows represent buoyancy flux through the surface. Fluid that is overturned and mixed is lightly shaded. Reproduced from Lab Sea Group (1998).*
 
 Hence, deep convection in the LS is governed mainly by ocean-atmosphere heat flux due to its effects on buoyancy stratification. However, stratification can also be modulated by freshwater exchange because salty water is denser than freshwater. In other words, freshwater overlying saltier water will require additional heat loss to induce sinking.
 
@@ -40,14 +46,14 @@ Within the LS, both freshwater and heat can be imported from the cyclonic flowin
 
 ![Fig. 2](/images/MScProposalFig2.png)
 
-**Fig. 2** Depiction of the main currents around the Labrador Sea, including the West Greenland Current, formed by the Irminger Current meeting the East Greenland Current, and the Labrador Current, formed by the merging of the Baffin Island Current, the West Greenland Current, and outflow through Hudson Strait. Reproduced from Fratantoni and Pickart (2007).
+**Fig. 2** *Depiction of the main currents around the Labrador Sea, including the West Greenland Current, formed by the Irminger Current meeting the East Greenland Current, and the Labrador Current, formed by the merging of the Baffin Island Current, the West Greenland Current, and outflow through Hudson Strait. Reproduced from Fratantoni and Pickart (2007).*
 
 Both the WGC and the LC are characterized by cold and fresh water of Arctic origin separated by a thermohaline front from warmer and saltier water of Atlantic origin. Beneath the LC and along the deep continental slope is the deep Labrador Current (DLC). The DLC is part of the vigorous Deep Western Boundary Current (DWBC), which contains the bulk of the Sverdrup return flow of the subpolar gyre (Fratantoni & Pickart, 2007) as well as North Atlantic Deep Water, of which a large portion is LSW (Dengler et al., 2006).
 
 Fluxes of heat and freshwater from boundary currents modulate LS deep convection via two types of eddies: Irminger Rings (IRs) and Boundary Current Eddies (BCEs) (Chanut et al., 2008). While IRs are generated by instabilities off Cape Desolation, BCEs are generated throughout the full length of the boundary current system. Together, they work to counteract ocean-atmosphere buoyancy loss so that stratification is maintained, effectively inhibiting deep convection throughout much of the interior LS. This effect is minimal within the southwest LS, so seasonal deep convection is usually limited to this region.
 A third important eddy type in the LS is generated by baroclinic instabilities following intra-plume deep convection, when isopycnals are sloped away from horizontal and towards vertical—--in other words, when neighbouring waters at a given depth have different densities. This results in horizontal density gradients and so-called Convective Eddies (CEs) (Chanut et al., 2008). CEs and BCEs work in concert to play a critical role in the third stage of deep convection, lateral exchange, in which BCEs import heat from the boundary currents and CEs mix it with the convective plumes to induce restratification, eventually resulting in the production of LSW.
 
-## Numerical modelling of the Labrador Sea
+### Numerical modelling of the Labrador Sea
 
 State-of-the-art models of the LS can have very high resolutions. For example, VIKING20X and its predecessor VIKING20 are 1/4° simulations with 1/20° nests of the North Atlantic. LAB60, which has an even higher resolution, represents the LS using a 1/60° nest within the larger 1/4° Arctic Northern Hemisphere Atlantic (ANHA4) simulation (Pennelly & Myers, 2020). Figure 3 shows the ANHA4 domain as well as the nested domains of LAB60 and SPG12, which is an intermediate 1/12° nest of the subpolar gyre. ANHA4 and its nests are built on the primitive equation Nucleus for European Modelling of the Ocean model (NEMO) coupled with the Louvain-la-Neuve Ice Model (LIM2).
 
@@ -55,11 +61,11 @@ General circulation models like NEMO carefully employ simplifications to limit c
 
 ![Fig. 3](/images/MScProposalFig3.png)
 
-**Fig. 3** The LAB60/ANHA4 model setup, with (a) the ANHA4 parent domain, (b) the SPG12 nest, and (c) the LAB60 nest. The colour scale identifies horizontal grid resolution. (d) Shows the vertical grid structure shared across all three domains. The thick black contour in (c) shows the typical deep convection region. The thin black contours show the 1000, 3000, and 5000 m isobaths. Reproduced from Pennelly and Myers (2020).
+**Fig. 3** *The LAB60/ANHA4 model setup, with (a) the ANHA4 parent domain, (b) the SPG12 nest, and (c) the LAB60 nest. The colour scale identifies horizontal grid resolution. (d) Shows the vertical grid structure shared across all three domains. The thick black contour in (c) shows the typical deep convection region. The thin black contours show the 1000, 3000, and 5000 m isobaths. Reproduced from Pennelly and Myers (2020).*
 
 Mixing processes, such as those occurring in deep convection, can happen on small scales. High-resolution models like LAB60 are therefore useful because they are more skilled at capturing small-scale processes, and hence rely less strongly on simplifying assumptions (Pennelly & Myers, 2020; Hirschi et al., 2020). The problem with these models is the high computational expense required to run them, and consequently many high-resolution numerical studies only cover small geographic regions. For example, Figure 3 shows how much smaller the 1/60° LAB60 nest is than its parent 1/4° ANHA4 domain. Therefore, many recent large-scale coupled ocean-atmosphere models, such as those used in the 2019 Intergovernmental Panel on Climate Change (IPCC) special report The Ocean and Cryosphere in a Changing Climate (Pörtner et al., 2019), still utilize resolutions of 1/4° or coarser.
 
-### Deep convection in models
+#### Deep convection in models
 
 All NEMO-based configurations, including LAB60 and ANHA4, make the hydrostatic assumption (Madec et al., 2022). This reduces the vertical momentum equation to a balance of pressure and buoyancy, expressed mathematically as
 
@@ -71,7 +77,7 @@ Fox-Kemper et al. (2008) and companion papers present the theory and numerical i
 
 Within their own coarse-resolution simulations, the authors found that their parameterization provided novel climate sensitivity. However, while it is implemented within NEMO, its effects on LS deep convection have not yet been directly investigated. I propose to perform this study as part of my master’s research.
 
-### Tides in models
+#### Tides in models
 
 Tides are caused by the centrifugal and gravitation forces of the Earth, Moon, Sun, and other planets (Sutherland, 2010). They are a vital driver of meridional overturning circulation via their role in deep mixing, supplying an estimated 3.7 TW of mechanical energy for dissipation in the oceans. There is therefore an intricate link between the energetics of meridional overturning circulation and small-scale mixing from tides (Munk & Wunsch, 1998).
 
@@ -81,7 +87,7 @@ In numerical models, diapycnal mixing is often parameterized using prescriptions
 
 In the LS, the possible effects of tides on deep convection are numerous and complex. For example, in the Arctic, tidal parameterizations were found to decrease stratification, leading to decreased ice concentration, decreased albedo, and increased freshwater export (Epstein, 2018). This could in turn increase LS stratification and inhibit convection. Conversely, tides could enhance local mixing, thereby having the opposite effect. Hence, the effects of tidal forcing on LS deep convection warrant further study, which I propose to include within my master’s research.
 
-### Labrador Sea Water export pathways
+#### Labrador Sea Water export pathways
 
 LSW is characterized by low salinity, low potential vorticity, and high concentrations of dissolved tracers (Rhein et al., 2017). It can also be characterized by its density, which typically ranges from 27.68 kg m-3 to 27.80–27.82 kg m-3 (Garcia-Quintana et al., 2019; Courtois et al., 2020). A significant volume of LSW is exported from the LS via the DLC, which forms part of the DWBC. The DWBC extends throughout the North Atlantic, providing a conduit for LSW southward into the tropics. Some LSW also exits eastward into the Irminger Basin, with the potential to re-enter the LS via the WGC (Kieke et al., 2009).
 
@@ -91,7 +97,7 @@ However, it is difficult to quantify the transport of LSW by interior pathways. 
 
 Identifying the pathways of LSW within the North Atlantic and quantifying their transport is an active area of research. Within numerical models, the representation of LSW pathways is dependent on disparate factors, such as bottom topography, frontal representation, and LSW production. It also requires a large domain, eliminating the possibility of employing high-resolution models like LAB60. I hypothesize that the schemes discussed in Sections 3.1 and 3.2 will change the representation of deep convection, which could in turn lead to a more accurate understanding of LSW pathways. I therefore propose to include the study of LSW pathways within my master’s research.
 
-## Proposal
+### Proposal
 
 Deep convection occurs in the LS, where it results in the production of LSW. Variability in LS deep convection has been linked to variability in the strength of the AMOC (e.g. Feucher et al., 2019), although recent research has called into question the precept that LS density anomalies drive AMOC variability (Menary et al., 2020; Lozier et al., 2019). Whether this is true or not, LS deep convection is also important as a way for young LSW, which is rich in oxygen and carbon dioxide, to enter the deep North Atlantic (Rhein et al., 2017; Garcia-Quintana et al., 2019). However, a complete and quantitative understanding of its spread within the North Atlantic is an open question.
 
@@ -99,21 +105,21 @@ I propose to study deep convection in the LS using the ANHA4 model. It has a 1/4
 
 To this end, the representation of LS deep convection and LSW pathways will be compared between model runs with schemes (1) and (2), only scheme (2), and with neither. Where possible, the results will also be compared with those from LAB60 and observational data, although this is dependent on data availability and computational resources. Ultimately, whether the representation of LS deep convection is improved, I believe that my research could inform future modelling efforts by showing the importance of employing the two aforementioned schemes. My research might also add to the body of literature on LSW pathways, in which there is currently no consensus.
 
-## Budget
+### Budget
 
 * MSc funding: \$2,000 per month for 24 months
 * Conference travel (potentially 'The Ocean Sciences Meeting', 2024): \$3,000
 * Publication fees (two publications): \$4,000
 * Computational costs (share of Compute Canada high performance computing allocation): \$7,000
 
-## Timeline
+### Timeline
 
 * March--April 2023: Complete coursework
 * May--June 2023: Complete initial analysis of existing ANHA4 model runs (e.g., calculate fluxes, freshwater content, convective resistance, mixed layer depth, internal pathways etc.) 
 * July--December 2023: Repeat analyses on LAB60; compare representation of mixing in coarse and high-resolution models; compare with observational dataset(s)
 * January--June 2024: Synthesize results and write thesis
 
-## References
+### References
 
 Chanut, J., Barnier, B., Large, W., Debreu, L., Penduff, T., Molines, J. M., & Mathiot, P. (2008). Mesoscale eddies in the labrador sea and their contribution to convection and restratification. Journal of Physical Oceanography, 38(8), 1617–1643.
 
