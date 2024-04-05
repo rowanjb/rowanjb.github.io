@@ -57,7 +57,6 @@ Significant works
 ------
 * **Brown, R.**, & Myers, P. G. (2024, January 29--31). *Deep convection in the Labrador Sea: Evaluating the effects of two mixing processes at resolutions consistent with coupled climate models.* [Conference presentation]. 2024 NEMO DRAKKAR Ocean Modelling Workshop, Grenoble, France. 
 * **Brown, R.**, & Myers, P. G. (2023, November 7). *Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models* [Conference presentation]. Institute for Geophysical Research fall symposium 2023, Edmonton, AB, Canada.
-* **Brown, R.**, & Myers, P. G. (2023, March 15--17). *Investigating mixing processes within the Labrador Sea using simulations at resolutions consistent with coupled climate models* [Conference presentation]. Northern Research Days 2023, Edmonton, AB, Canada.
 * Manzur Tirado, A. M., **Brown, R.**, & Valdez Banda, O. A. (2019). [*Risk and safety management of autonomous systems: a literature review and initial proposals for the maritime industry*](http://urn.fi/URN:ISBN:978-952-60-8499-2). Aalto University publication series SCIENCE + TECHNOLOGY 1/2019, 1–66.
 
 Additional experiences and competencies
