@@ -6,6 +6,8 @@ collection: portfolio
 
 *My best guess circa March 2023 on the focus of my MSc. My research ended up veering in a slightly unforeseen direction, but the proposal lives on here as a de facto writing sample.*
 
+Also available as a pdf: <embed src="{{ site.baseurl }}/files/paper1.pdf" width="600" height="700" type='application/pdf'> 
+
 ## Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models
 
 Master's thesis proposal
