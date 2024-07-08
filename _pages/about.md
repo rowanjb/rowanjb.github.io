@@ -19,4 +19,4 @@ Interests
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
   * [*At the Mountains of Madness*](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) by H. P. Lovecraft
 
-In my MSc research, my focus is mixing in the Labrador Sea using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). I am specifically studying the effects of two processes on deep convection: tidal forcing and the [Fox-Kemper parameterization for submesoscale mixed layer eddies](https://doi.org/10.1175/2007JPO3792.1) (SMLEs). 
+In my MSc research, my focus is/was mixing in the Labrador Sea using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). I am particularly interested in the effects of two processes on deep convection: tidal forcing and the [Fox-Kemper parameterization for submesoscale mixed layer eddies](https://doi.org/10.1175/2007JPO3792.1) (SMLEs). 
