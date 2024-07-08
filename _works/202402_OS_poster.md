@@ -1,6 +1,6 @@
 ---
 title: "Ocean Sciences Poster"
-excerpt: "My poster from the 2024 Ocean Sciences Meeting in New Orleans."
+excerpt: "Poster from the 2024 Ocean Sciences Meeting in New Orleans"
 collection: works
 ---
 
