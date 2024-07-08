@@ -31,11 +31,9 @@ Awards and honours
 Relevant experience
 ------
 * Jul 2022--Jun 2024: **Graduate research assistant fellowship**, University of Alberta, Edmonton, AB, Canada
-  * Studying physical oceanography and numerical modelling
-  * Researching the effects of tides and submesoscale mixed layer eddies on deep convection in
-the Labrador Sea using the NEMO ocean model
-  * Computations are run on Compute Canada supercomputers
-  * Data is analysed in Python and MATLAB
+  * Used the NEMO ocean model to study the effects of tides and submesoscale mixed layer eddies on deep convection
+  * Ran computations on Compute Canada supercomputers and local HPC system
+  * Analysed data using Python and MATLAB
 
 * Oct 2021--Feb 2022: **Ocean engineer**, Oceans Limited, St. John's, NL, Canada
   * Programmed vessel motions prediction software using MATLAB and C++
@@ -55,13 +53,13 @@ the Labrador Sea using the NEMO ocean model
 
 Significant works
 ------
+* **Brown, R.**, & Myers, P. G. (2024, February 18--23). *Mixing Processes in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models* [Conference presentation]. The Ocean Sciences Meeting 2024, New Orleans, LA, USA.
 * **Brown, R.**, & Myers, P. G. (2024, January 29--31). *Deep convection in the Labrador Sea: Evaluating the effects of two mixing processes at resolutions consistent with coupled climate models.* [Conference presentation]. 2024 NEMO DRAKKAR Ocean Modelling Workshop, Grenoble, France. 
-* **Brown, R.**, & Myers, P. G. (2023, November 7). *Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models* [Conference presentation]. Institute for Geophysical Research fall symposium 2023, Edmonton, AB, Canada.
 * Manzur Tirado, A. M., **Brown, R.**, & Valdez Banda, O. A. (2019). [*Risk and safety management of autonomous systems: a literature review and initial proposals for the maritime industry*](http://urn.fi/URN:ISBN:978-952-60-8499-2). Aalto University publication series SCIENCE + TECHNOLOGY 1/2019, 1–66.
 
 Additional experiences and competencies
 ------
 * **Volunteering**: Social convener and oceanography representative for the Earth and Atmospheric
-Sciences graduate students’ society (2022–2023)
+Sciences graduate students’ society (2022–-2023)
 * **Languages**: English (native) and French (intermediate/B1)
 * **Memberships**: The Canadian Meteorological and Oceanographic Society; The Society of Naval Architects and Marine Engineers
