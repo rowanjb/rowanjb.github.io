@@ -6,7 +6,7 @@ collection: portfolio
 
 *My best guess circa March 2023 on the focus of my MSc. My research ended up veering in a slightly unforeseen direction, but the proposal lives on here as a de facto writing sample.*
 
-Also available as a pdf: <A HREF="http://www.example.com/files/paper1.pdf#page=4">
+Also available as a pdf: [Working Paper](/files/paper1.pdf){: .btn--research}
 
 ## Mixing processes and Labrador Sea Water: simulations at resolutions consistent with coupled climate models
 
