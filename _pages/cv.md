@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 * **MSc Earth and Atmospheric Sciences**, University of Alberta, 2024
-  * Concentration in physical oceanography/numerical modelling
+  * Thesis: ``The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models''
   * Supervisor: Dr. Paul Myers
 * **BEng Ocean and Naval Architectural Engineering**, Memorial University of Newfoundland, 2020
   * Equivalent requirements for a Minor in Mathematics completed in 2021
