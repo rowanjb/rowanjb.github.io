@@ -83,7 +83,7 @@ author:
   name             : "Rowan Brown"
   avatar           : "profile.png"
   bio              : "Ocean modeller"
-  location         : "Edmonton, AB, Canada"
+  location         : "Munich, Germany"
   employer         : 
   email            : "rowan.brown@ualberta.ca"
   researchgate     : "https://www.researchgate.net/profile/Rowan-Brown-3"
@@ -101,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rowan-brown/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6038-8359"#"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
