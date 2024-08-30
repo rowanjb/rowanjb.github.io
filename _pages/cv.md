@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 * **PhD (Dr. rer. nat.) Physical Geography**, Ludwig Maximilian University of Munich, 2027 (est.)
-  * Thesis topic: High-resolution, non-hydrostatic modelling of deep convection in the Southern Ocean using MITgcm
+  * Thesis topic: High-resolution, non-hydrostatic modelling of convection in the Southern Ocean using MITgcm
   * Supervisor: Prof. Dr. Alexander Haumann
 * **MSc Earth and Atmospheric Sciences**, University of Alberta, 2024
   * Thesis: ''The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models''
