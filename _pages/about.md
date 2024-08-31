@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Rowan, and I recently started a PhD studying Southern Ocean convection using high-resolution non-hydrostatic modelling (as part of the [VERTEXSO](https://cordis.europa.eu/project/id/101041743) project) under the supervision of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.en.geo.uni-muenchen.de/index.html) and the [Alfred Wegener Institute](https://www.awi.de). I recently finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My background is in engineering, and I have a BEng in [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/) from Memorial University of Newfoundland. 
+My name is Rowan, and I am an engineer-in-recovery with a fascination for the polar oceans. I recently started a PhD studying Southern Ocean convection using high-resolution non-hydrostatic modelling (as part of the [VERTEXSO](https://cordis.europa.eu/project/id/101041743) project) under the supervision of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.en.geo.uni-muenchen.de/index.html) and the [Alfred Wegener Institute](https://www.awi.de). I recently finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My background is in engineering, and I have a BEng in [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/) from Memorial University of Newfoundland. 
 
 Interests
 ======
