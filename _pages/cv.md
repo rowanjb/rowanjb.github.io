@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ------
-* **Doctor of Natural Sciences**, 2027 (estimated)\\
-  **Ludwig Maximilian University of Munich**, Munich, Germany\\
-  **Alfred Wegener Institute**, Bremerhaven, Germany
+* **Doctoral candidate**, 2027 (estimated)\\
+  **Ludwig-Maximilians-Universität**, Munich, Germany\\
+  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Bremerhaven, Germany
   * Thesis topic: High-resolution, non-hydrostatic modelling of convection in the Southern Ocean using MITgcm
   * Supervisor: Prof. Dr. Alexander Haumann
 * **Master of Science** in Earth and Atmospheric Sciences, 2024\\
@@ -36,9 +36,9 @@ Awards and honours
 
 Relevant experience
 ------
-* Sep 2024--: **Doctoral researcher**, TO BE UPDATED\\
-  **Ludwig Maximilian University of Munich**, Munich, Germany\\
-  **Alfred Wegener Institute**, Bremerhaven, Germany
+* Sep 2024--: **Researcher**, TO BE UPDATED\\
+  **Ludwig-Maximilians-Universität**, Munich, Germany\\
+  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Bremerhaven, Germany
   * Researching convection in the Southern Ocean
   * Using very-high-resolution, non-hydrostatic models based on the MITgcm framework
 
