@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
-* **Doctor of Natural Sciences**, 2027 (estimated)
-  **Ludwig Maximilian University of Munich**, Munich, Germany
+* **Doctor of Natural Sciences**, 2027 (estimated)\\
+  **Ludwig Maximilian University of Munich**, Munich, Germany\\
   **Alfred Wegener Institute**, Bremerhaven, Germany
   * Thesis topic: High-resolution, non-hydrostatic modelling of convection in the Southern Ocean using MITgcm
   * Supervisor: Prof. Dr. Alexander Haumann
@@ -36,7 +36,8 @@ Awards and honours
 
 Relevant experience
 ------
-* Sep 2024--: **Graduate research assistant fellowship**, University of Alberta, Edmonton, AB, Canada
+* Sep 2024--: **Doctoral researcher**
+University of Alberta, Edmonton, AB, Canada
   * Used the NEMO ocean model to study the effects of tides and submesoscale mixed layer eddies on deep convection
   * Ran computations on Compute Canada supercomputers and local HPC system
   * Analysed data using Python and MATLAB
