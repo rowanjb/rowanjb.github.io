@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ------
-* **PhD (Dr. rer. nat.) Physical Geography**, Ludwig Maximilian University of Munich, 2027 (est.)
+* **Doctor of Natural Sciences**, 2027 (estimated)
+  **Ludwig Maximilian University of Munich**, Munich, Germany
+  **Alfred Wegener Institute**, Bremerhaven, Germany
   * Thesis topic: High-resolution, non-hydrostatic modelling of convection in the Southern Ocean using MITgcm
   * Supervisor: Prof. Dr. Alexander Haumann
-* **MSc Earth and Atmospheric Sciences**, University of Alberta, 2024
-  * Thesis: ''The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models''
+* **Master of Science** in Earth and Atmospheric Sciences, 2024
+  **University of Alberta**, Edmonton, AB, Canada
+  * Thesis: The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models
   * Supervisor: Dr. Paul Myers
-* **BEng Ocean and Naval Architectural Engineering**, Memorial University of Newfoundland, 2020
+* **Bachelor of Engineering** in Ocean and Naval Architectural Engineering, 2020
+  **Memorial University of Newfoundland**, St. John's, NL, Canada
   * Equivalent requirements for a Minor in Mathematics completed in 2021
-  * Capstone projects: design of an oceanographic glider; design of an Arctic warship
 
 Awards and honours
 ------
@@ -33,6 +36,11 @@ Awards and honours
 
 Relevant experience
 ------
+* Sep 2024--: **Graduate research assistant fellowship**, University of Alberta, Edmonton, AB, Canada
+  * Used the NEMO ocean model to study the effects of tides and submesoscale mixed layer eddies on deep convection
+  * Ran computations on Compute Canada supercomputers and local HPC system
+  * Analysed data using Python and MATLAB
+
 * Jul 2022--Jun 2024: **Graduate research assistant fellowship**, University of Alberta, Edmonton, AB, Canada
   * Used the NEMO ocean model to study the effects of tides and submesoscale mixed layer eddies on deep convection
   * Ran computations on Compute Canada supercomputers and local HPC system
