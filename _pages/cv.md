@@ -16,7 +16,7 @@ Education
   **Alfred Wegener Institute**, Bremerhaven, Germany
   * Thesis topic: High-resolution, non-hydrostatic modelling of convection in the Southern Ocean using MITgcm
   * Supervisor: Prof. Dr. Alexander Haumann
-* **Master of Science** in Earth and Atmospheric Sciences, 2024
+* **Master of Science** in Earth and Atmospheric Sciences, 2024<br />
   **University of Alberta**, Edmonton, AB, Canada
   * Thesis: The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models
   * Supervisor: Dr. Paul Myers
