@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* **Doctoral candidate**, 2027 (estimated)\\
+* **Doctoral student**, 2027 (estimated completion date)\\
   **Ludwig-Maximilians-Universität**, Munich, Germany\\
   **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Bremerhaven, Germany
   * Thesis topic: High-resolution, non-hydrostatic modelling of convection in the Southern Ocean using MITgcm
