@@ -12,16 +12,16 @@ redirect_from:
 Education
 ------
 * **Doctoral student**, 2027 (estimated completion date)\\
-  **Ludwig-Maximilians-Universität**, Munich, Germany\\
-  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Bremerhaven, Germany
+  **Ludwig-Maximilians-Universität**, Germany\\
+  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Germany
   * Thesis topic: High-resolution, non-hydrostatic modelling of convection in the Southern Ocean using MITgcm
   * Supervisor: Prof. Dr. Alexander Haumann
 * **Master of Science** in Earth and Atmospheric Sciences, 2024\\
-  **University of Alberta**, Edmonton, AB, Canada
+  **University of Alberta**, Canada
   * Thesis: The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models
   * Supervisor: Dr. Paul Myers
 * **Bachelor of Engineering** in Ocean and Naval Architectural Engineering, 2020\\
-  **Memorial University of Newfoundland**, St. John's, NL, Canada
+  **Memorial University of Newfoundland**, Canada
   * Equivalent requirements for a Minor in Mathematics completed in 2021
 
 Awards and honours
@@ -37,31 +37,31 @@ Awards and honours
 Relevant experience
 ------
 * Sep 2024--: **Researcher**, TO BE UPDATED\\
-  **Ludwig-Maximilians-Universität**, Munich, Germany\\
-  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Bremerhaven, Germany
+  **Ludwig-Maximilians-Universität**, Germany\\
+  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Germany
   * Researching convection in the Southern Ocean
   * Using very-high-resolution, non-hydrostatic models based on the MITgcm framework
 
 * Jul 2022--Jun 2024: **Graduate research assistant fellowship**\\
-  **University of Alberta**, Edmonton, AB, Canada
+  **University of Alberta**, Canada
   * Used the NEMO ocean model to study the effects of tides and submesoscale mixed layer eddies on deep convection
   * Ran computations on Compute Canada supercomputers and local HPC system
   * Analysed data using Python and MATLAB
 
 * Oct 2021--Feb 2022: **Ocean engineer**\\
-  **Oceans Limited**, St. John's, NL, Canada
+  **Oceans Limited**, Canada
   * Programmed vessel motions prediction software using MATLAB and C++
   * Researched new methods of wave spectra prediction using machine learning (Python and Keras)
   * Performed outfitting and CAD modelling of weather buoys
 
 * Jan 2019--Apr 2019: **Research assistant in maritime safety engineering**\\
-  **Aalto University**, Helsinki, Finland
+  **Aalto University**, Finland
   * Supported by Mitacs Globalink Research Award
   * Co-authored 66-page report on safety management of autonomous maritime systems
   * Performed extensive literature review and SWOT analyses
 
 * May 2018--Aug 2018: **Research assistant in human factors engineering**\\
-  **Memorial University of Newfoundland**, St. John's, NL, Canada
+  **Memorial University of Newfoundland**, Canada
   * Researched methods for managing sea ice in the offshore industry
   * Analysed human-factors experimental data using MATLAB
   * Designed scenarios for a maritime simulator
