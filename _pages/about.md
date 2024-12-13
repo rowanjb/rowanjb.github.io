@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name's Rowan, and I'm fascinated with the polar oceans. My current research focus is the Southern Ocean, where I'm working on understanding the role of convection in setting the structure of the surface water masses. In particular, I'm taking a primarily model-based approach to studying the role of convective plumes in the entrainment of Circumpolar Deep Water (CDW) into the wintertime mixed layer. The basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable, by design, to directly represent convective plumes. Example plumes in a model with a horizontal resolution of 20 m is shown in the .gif below.
+Hi, my name's Rowan, and I'm fascinated with the polar oceans. My current research focus is the Southern Ocean, where I'm working on understanding the role of convection in setting the structure of the surface water masses. In particular, I'm taking a primarily model-based approach to studying the role of convective plumes in the entrainment of Circumpolar Deep Water (CDW) into the wintertime mixed layer. The basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable, by design, to directly represent convective plumes. Example plumes in a model with a horizontal resolution of 20 m are shown in the .gif below.
 
 ![dX=20m](./images/plume_parallel_421x400.gif) <img src="./images/plume_cbar_300x388.png">
 
