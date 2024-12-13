@@ -7,15 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name's Rowan, and I'm fascinated with the polar oceans. My current research focus is the Southern Ocean, where I'm working on understanding the role of convection in setting the structure of the surface water masses. In particular, I'm taking a primarily model-based approach to studying the role of convective plumes in the entrainment of Circumpolar Deep Water (CDW) into the wintertime mixed layer. The basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable, by design, to directly represent convective plumes. Example plumes in a model with a horizontal resolution of 20 m are shown in the .gif below.
+The Earth is our home, and the poles are our AC---without overturning in the Southern Ocean and the North Atlantic, and without sea ice to regulate heat uptake and to reflect incoming solar radiation, the Earth ~~would~~ will be an altogether less comfortable place. 
 
+My lofty ambitions are to help mitigate this future by working at the intersection of submesoscale (read: pretty small) fluid dynamics and climate science. Failing this, I hope to at least have some fun playing with the likes of [MITgcm](https://mitgcm.readthedocs.io/en/latest/) and [NEMO](https://www.nemo-ocean.eu). 
+
+In my ongoing PhD research, I'm working on understanding the role of convection in setting the structure of the Southern Ocean. In particular, I'm taking a primarily model-based approach to studying how convective plumes might be an overlooked player in the upwelling of deep waters around Antarctica. My basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable, by design, to directly represent convective plumes. I hope that, if we can figure out a way to put accurate convection into ESMs, we can ultimately instil a bit more faith into ESMs' predictions of future climactic changes. (And if the climate argument hasn't convinced you, consider that ocean convection is just plain cool, see: [Stommel, 1962](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766).)
+
+If you're wondering what I mean by convective plumes, it's basically this: 
 ![dX=20m](./images/plume_parallel_421x400.gif) <img src="./images/plume_cbar_300x388.png">
 
 If you're interested, you can check out my PhD proposal [here](https://rowanjb.github.io/files/AWI_TAC_proposal.pdf). (Or checkout the [associated slideshow](https://rowanjb.github.io/files/2024-12-03_TAC.pdf) for something a bit more palatable.)
 
 My work is part of the [VERTEXSO](https://cordis.europa.eu/project/id/101041743) project under the leadership of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/) and the [Alfred Wegener Institute (AWI)](https://www.awi.de/en/science/junior-groups/so-clim/projects.html). As a member of the AWI-LMU joint research group for Southern Ocean-Climate Interactions [(SO-CLIM)](https://www.awi.de/en/science/junior-groups/so-clim.html), I am fortunate enough to frequently travel across Germany and spend time at both institutions. The only unlucky part is the reliance on Deutsche Bahn.
 
-Ocean interests
+Relevant interests
 ======
 * Numerical modelling, including general circulation models and large eddy simulation
 * Submesoscale (and smaller) fluid dynamics, especially ocean convection
