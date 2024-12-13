@@ -16,7 +16,7 @@ In my ongoing PhD research, I'm working on understanding the role of convection 
 If you're wondering what I mean by convective plumes, it's basically this: 
 ![dX=20m](./images/plume_parallel_421x400.gif) <img src="./images/plume_cbar_300x388.png">
 
-If you're interested, you can check out my PhD proposal [here](https://rowanjb.github.io/files/AWI_TAC_proposal.pdf). (Or checkout the [associated slideshow](https://rowanjb.github.io/files/2024-12-03_TAC.pdf) for something a bit more palatable.)
+If you're interested, you can check out my PhD proposal [here](https://rowanjb.github.io/files/AWI_TAC_proposal.pdf). (Or check out the [associated slideshow](https://rowanjb.github.io/files/2024-12-03_TAC.pdf) for something a bit more palatable.)
 
 My work is part of the [VERTEXSO](https://cordis.europa.eu/project/id/101041743) project under the leadership of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/) and the [Alfred Wegener Institute (AWI)](https://www.awi.de/en/science/junior-groups/so-clim/projects.html). As a member of the AWI-LMU joint research group for Southern Ocean-Climate Interactions [(SO-CLIM)](https://www.awi.de/en/science/junior-groups/so-clim.html), I am fortunate enough to frequently travel across Germany and spend time at both institutions. The only unlucky part is the reliance on Deutsche Bahn.
 
