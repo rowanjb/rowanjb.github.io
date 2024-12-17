@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-The Earth is our home, and the poles are our AC---without overturning in the Southern Ocean and the North Atlantic, and without sea ice to regulate heat uptake and to reflect incoming solar radiation, the Earth ~~would~~ will be an altogether less comfortable place. 
+At the risk of sounding a bit melodramatic, I like to imagine the polar regions as great climactic air conditioners---without overturning in the Southern Ocean and the North Atlantic, and without sea ice to regulate heat uptake and to reflect incoming solar radiation, the Earth would (or maybe I should say will &#128556;) be an altogether less comfortable place. 
 
-My lofty ambitions are to help mitigate this future by working at the intersection of submesoscale (read: pretty small) fluid dynamics and climate science. Failing this, I hope to at least have some fun playing with the likes of [MITgcm](https://mitgcm.readthedocs.io/en/latest/) and [NEMO](https://www.nemo-ocean.eu). 
+My lofty ambitions are to help mitigate this future by working at the intersection of submesoscale (i.e., fairly small) fluid dynamics and climate science. Failing this, I hope to at least have some fun playing with tools like the [MITgcm](https://mitgcm.readthedocs.io/en/latest/) and [NEMO](https://www.nemo-ocean.eu) ocean models. 
 
 In my ongoing PhD research, I'm working on understanding the role of convection in setting the structure of the Southern Ocean. In particular, I'm taking a primarily model-based approach to studying how convective plumes might be an overlooked player in the upwelling of deep waters around Antarctica. My basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable, by design, to directly represent convective plumes. I hope that, if we can figure out a way to put accurate convection into ESMs, we can ultimately instil a bit more faith into ESMs' predictions of future climactic changes. (And if the climate argument hasn't convinced you, consider that ocean convection is just plain cool, see: [Stommel, 1962](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766).)
 
