@@ -12,8 +12,8 @@ redirect_from:
 Education
 ------
 * **Doctoral student** in Oceanography, est. 2027 \\
-  **Ludwig-Maximilians-Universität**, Germany\\
-  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Germany
+  **Ludwig-Maximilians-Universität München** (LMU Munich), Germany\\
+  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung** (AWI), Germany
   * Thesis: *Towards Realistically Modelling Southern Ocean Convection*
   * Supervisor: Prof. Dr. Alexander Haumann
 * **Master of Science** in Earth and Atmospheric Sciences, 2024\\
@@ -37,8 +37,8 @@ Awards and honours
 Relevant experience
 ------
 * Sep 2024--: **Researcher**\\
-  **Ludwig-Maximilians-Universität**, Germany\\
-  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Germany
+  **Ludwig-Maximilians-Universität München** (LMU Munich), Germany\\
+  **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung** (AWI), Germany
   * Researching shallow open-ocean convection in the Southern Ocean
   * Running computations on HPC systems in Munich and at AWI
   * Using very-high-resolution, non-hydrostatic models based on the MITgcm framework
