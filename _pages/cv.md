@@ -89,6 +89,6 @@ I always feel awkward writing what *I* think I'm good at. However, I *do* have d
 * Python and MATLAB, including small to large datasets from model, climatological (e.g., WOA), and observational (e.g., Argo) sources 
 * Modelling skills, i.e., 
   * Setting up and running models on HPCs and supercomputers
-  * Numerical methods, relevant coursework at UAlberta: [Advanced Atmosphere-Ocean-Climate Modelling](https://apps.ualberta.ca/catalogue/course/eas/571)
-  * Low-abstraction languages (Fortran and a bit of C) and parallelization (MPI), relevant one-week workshop: [Parallel programming with MPI and OpenMP](https://www.bremhlr.uni-bremen.de/events/mpi-openmp-workshop/)
+  * Numerical methods (relevant coursework at UAlberta: [Advanced Atmosphere-Ocean-Climate Modelling](https://apps.ualberta.ca/catalogue/course/eas/571))
+  * Low-abstraction languages (Fortran and a bit of C) and parallelization (MPI) (relevant one-week workshop: [Parallel programming with MPI and OpenMP](https://www.bremhlr.uni-bremen.de/events/mpi-openmp-workshop/))
 * Git! e.g., [my GitHub](https://github.com/rowanjb)
