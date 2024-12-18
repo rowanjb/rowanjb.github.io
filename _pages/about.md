@@ -14,7 +14,7 @@ My lofty ambitions are to help mitigate this future by working at the intersecti
 In my ongoing PhD research, I'm working on understanding the role of convection in setting the structure of the Southern Ocean. In particular, I'm taking a primarily model-based approach to studying how convective plumes might be an overlooked player in the upwelling of deep waters around Antarctica. My basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable, by design, to directly represent convective plumes. I hope that, if we can figure out a way to put accurate convection into ESMs, we can ultimately instil a bit more faith into ESMs' predictions of future climactic changes. (And if the climate argument hasn't convinced you, consider that ocean convection is just plain cool, see: [Stommel, 1962](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766).)
 
 If you're wondering what I mean by convective plumes, it's basically this: 
-![dX=20m](./images/plume_parallel_421x400.gif) <img src="./images/plume_cbar_300x388.png">
+![dX=20m](./images/plume_parallel_421x400_loop.gif) <img src="./images/plume_cbar_300x388.png">
 
 If you're interested, you can check out my PhD proposal [here](https://rowanjb.github.io/files/AWI_TAC_proposal.pdf). (Or check out the [associated slideshow](https://rowanjb.github.io/files/2024-12-03_TAC.pdf) for something a bit more palatable.)
 
