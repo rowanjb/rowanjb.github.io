@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-At the risk of sounding a bit melodramatic, I like to imagine the polar regions as great climactic air conditioners---without overturning in the Southern Ocean and the North Atlantic, and without sea ice to regulate heat uptake and to reflect incoming solar radiation, the Earth would (or maybe I should say will &#128556;) be an altogether less comfortable place. 
+At the risk of sounding overly verbose, I like to imagine the polar oceans as great climactic air conditioners---without overturning in the Southern Ocean and in the North Atlantic, and without sea ice to regulate heat uptake and to reflect incoming solar radiation, the Earth would (or maybe I should say will &#128556;) become an altogether uncomfortable place. 
 
 My lofty ambitions are to help mitigate this future by working at the intersection of submesoscale (i.e., fairly small) fluid dynamics and climate science. Failing this, I hope to at least have some fun playing with tools like the [MITgcm](https://mitgcm.readthedocs.io/en/latest/) and [NEMO](https://www.nemo-ocean.eu) ocean models. 
 
