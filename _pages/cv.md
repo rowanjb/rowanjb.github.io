@@ -83,7 +83,7 @@ Sciences graduate students' society (2022-2023)
 * **Languages**: English (native) and French (intermediate/B1)
 * **Memberships**: The Canadian Meteorological and Oceanographic Society ([CMOS](https://www.cmos.ca)); The Society of Naval Architects and Marine Engineers ([SNAME](https://www.sname.org)); The European Geosciences Union ([EGU](https://www.egu.eu))
 
-Skills
+Tech skills
 ------
 I always feel awkward writing what *I* think I'm good at. However, I *do* have demonstrable experience with the following:
 * Python and MATLAB, including small to large datasets from model, climatological (e.g., WOA), and observational (e.g., Argo) sources 
