@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ------
-* **Doctoral student**, 2027 (estimated completion date)\\
+* **Doctoral student** in Oceanography, est. 2027 \\
   **Ludwig-Maximilians-Universität**, Germany\\
   **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Germany
-  * Thesis topic: High-resolution, non-hydrostatic modelling of convection in the Southern Ocean using MITgcm
+  * Thesis: *Towards Realistically Modelling Southern Ocean Convection*
   * Supervisor: Prof. Dr. Alexander Haumann
 * **Master of Science** in Earth and Atmospheric Sciences, 2024\\
   **University of Alberta**, Canada
-  * Thesis: The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models
+  * Thesis: *The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models*
   * Supervisor: Dr. Paul Myers
 * **Bachelor of Engineering** in Ocean and Naval Architectural Engineering, 2020\\
   **Memorial University of Newfoundland**, Canada
@@ -36,17 +36,20 @@ Awards and honours
 
 Relevant experience
 ------
-* Sep 2024--: **Researcher**, TO BE UPDATED\\
+* Sep 2024--: **Researcher**\\
   **Ludwig-Maximilians-Universität**, Germany\\
   **Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung**, Germany
-  * Researching convection in the Southern Ocean
+  * Researching shallow open-ocean convection in the Southern Ocean
+  * Running computations on HPC systems in Munich and at AWI
   * Using very-high-resolution, non-hydrostatic models based on the MITgcm framework
 
 * Jul 2022--Jun 2024: **Graduate research assistant fellowship**\\
   **University of Alberta**, Canada
-  * Used the NEMO ocean model to study the effects of tides and submesoscale mixed layer eddies on deep convection
-  * Ran computations on Compute Canada supercomputers and local HPC system
+  * Identified possible improvements to biases in coupled climate models
+  * Specifically, used the NEMO ocean model to show how tides and mixed layer eddies reduced mixed layer depth biases during deep convection in the Labrador Sea
+  * Ran computations on Compute Canada supercomputers and a local HPC system
   * Analysed data using Python and MATLAB
+  * Performed additional tidal analyses of a very-high resolution NEMO model in operational support of a Fisheries and Oceans Canada project
 
 * Oct 2021--Feb 2022: **Ocean engineer**\\
   **Oceans Limited**, Canada
