@@ -81,4 +81,14 @@ Additional experiences and competencies
 * **Volunteering**: Social convener and oceanography representative for the Earth and Atmospheric
 Sciences graduate students' society (2022-2023)
 * **Languages**: English (native) and French (intermediate/B1)
-* **Memberships**: The Canadian Meteorological and Oceanographic Society; The Society of Naval Architects and Marine Engineers; The European Geosciences Union (EGU)
+* **Memberships**: The Canadian Meteorological and Oceanographic Society ([CMOS](https://www.cmos.ca)); The Society of Naval Architects and Marine Engineers ([SNAME](https://www.sname.org)); The European Geosciences Union ([EGU](https://www.egu.eu))
+
+Skills
+------
+I always feel awkward writing what *I* think I'm good at. However, I *do* have demonstrable experience with the following:
+* Python and MATLAB, including small to large datasets from model, climatological (e.g., WOA), and observational (e.g., Argo) sources 
+* Modelling skills, i.e., 
+  * Setting up and running models on HPCs and supercomputers
+  * Numerical methods, relevant coursework at UAlberta: [Advanced Atmosphere-Ocean-Climate Modelling](https://apps.ualberta.ca/catalogue/course/eas/571)
+  * Low-abstraction languages (Fortran and a bit of C) and parallelization (MPI), relevant one-week workshop: [Parallel programming with MPI and OpenMP](https://www.bremhlr.uni-bremen.de/events/mpi-openmp-workshop/)
+* Git! e.g., [my GitHub](https://github.com/rowanjb)
