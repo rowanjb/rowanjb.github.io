@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-At the risk of sounding overly verbose, I like to imagine the polar oceans as great climactic air conditioners---without overturning in the Southern Ocean and in the North Atlantic, and without sea ice to regulate heat uptake and to reflect incoming solar radiation, the Earth would (or maybe I should say will &#128556;) become an altogether uncomfortable place. 
+At the risk of sounding overly verbose, I like to imagine the polar oceans as great climactic air conditioners---without overturning in the Southern Ocean and in the North Atlantic, and without sea ice to regulate heat uptake and to reflect incoming solar radiation, the Earth will become an altogether uncomfortable place. 
 
 My lofty ambitions are to help mitigate this future by working at the intersection of submesoscale (i.e., fairly small) fluid dynamics and climate science. Failing this, I hope to at least have some fun playing with tools like the [MITgcm](https://mitgcm.readthedocs.io/en/latest/) and [NEMO](https://www.nemo-ocean.eu) ocean models. 
 
@@ -29,5 +29,6 @@ Relevant interests
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
   * [*At the Mountains of Madness*](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) by H. P. Lovecraft
+  * [*A Farewell to Ice: A Report from the Arctic*] by Peter Wadhams
 
 In early 2024, I finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My focus was deep convection in the Labrador Sea, which I studied using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). A paper on this work, or maybe even two, ought to come out at some point in the not-too-distant future (I just have to finish them first). My background before oceanography was in the tangetially-related field of [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/). (I still think boats are cool, especially sailboats, but I have no interest in designing them!)
