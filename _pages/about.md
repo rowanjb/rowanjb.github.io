@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am broadly interested in polar ocean dynamics, particularly convection, and its role in global climactic changes. At the risk of sounding overly verbose, I like to imagine the polar oceans as giant air conditioners---without overturning in the Southern Ocean and in the North Atlantic, and without sea ice to regulate heat uptake and to reflect incoming solar radiation, the Earth will become an altogether uncomfortable place. 
+I am broadly interested in polar ocean dynamics, particularly convection, and its role in global climactic changes like weakening overturning circulation and sea ice loss.
 
-My lofty ambitions are to help mitigate this future by working at the intersection of submesoscale (i.e., fairly small) fluid dynamics and climate science. Failing this, I hope to at least have some fun playing with tools like the [MITgcm](https://mitgcm.readthedocs.io/en/latest/) and [NEMO](https://www.nemo-ocean.eu) ocean models. 
+My lofty ambitions are to help mitigate these changes by working at the intersection of submesoscale (i.e., fairly small) fluid dynamics and climate science. Failing this, I am at least having fun with tools like the [MITgcm](https://mitgcm.readthedocs.io/en/latest/) and [NEMO](https://www.nemo-ocean.eu) models. 
 
-In my ongoing PhD research, I'm working on understanding the role of convection in setting the structure of the Southern Ocean. In particular, I'm taking a primarily model-based approach to studying how convective plumes might be an overlooked player in the upwelling of deep waters around Antarctica. My basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable, by design, to directly represent convective plumes. I hope that, if we can figure out a way to put accurate convection into ESMs, we can ultimately instil a bit more faith into ESMs' predictions of future climactic changes. (And if the climate argument hasn't convinced you, consider that ocean convection is just plain cool, see: [Stommel, 1962](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766).)
+In my ongoing PhD research, I'm working on understanding the role of convection in setting the structure of the Southern Ocean. In particular, I'm taking a primarily model-based approach to studying how convective plumes might be an overlooked player in the upwelling of ice melt-inducing intermediate waters around Antarctica. My basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable to directly represent convective plumes. If we can figure out a way to put accurate convection into ESMs, I hope we can ultimately instil a bit more faith into ESMs' predictions of future climactic changes. 
+
+(My secondary motivation is that ocean convection is just plain cool, see: [Stommel, 1962](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766).)
 
 If you're wondering what I mean by convective plumes, it's basically this: 
 ![dX=20m](./images/plume_parallel_421x400_loop.gif) <img src="./images/plume_cbar_300x388.png">
@@ -22,7 +24,7 @@ My work is part of the [EU-funded](https://cordis.europa.eu/project/id/101041743
 
 Relevant interests
 ======
-* Numerical modelling, including general circulation models and large eddy simulation
+* Numerical modelling, including general circulation models and large eddy simulations
 * Submesoscale (and smaller) fluid dynamics, especially ocean convection
 * Polar oceanography and sea ice
 * History and literature around oceanography and polar exploration, e.g., 
@@ -31,4 +33,4 @@ Relevant interests
   * [*At the Mountains of Madness*](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) by H. P. Lovecraft
   * *A Farewell to Ice: A Report from the Arctic* by Peter Wadhams
 
-In early 2024, I finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My focus was deep convection in the Labrador Sea, which I studied using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). A paper on this work, or maybe even two, ought to come out at some point in the not-too-distant future (I just have to finish them first). My background before oceanography was in the tangetially-related field of [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/). (I still think boats are cool, especially sailboats, but I have no interest in designing them!)
+In early 2024, I finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) at the University of Alberta. My focus was deep convection in the Labrador Sea, which I studied using the [NEMO ocean model](https://www.nemo-ocean.eu) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). A paper on this work, or maybe even two, ought to come out at some point in the not-too-distant future. My background before oceanography was in the tangetially-related field of [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/). 
