@@ -77,6 +77,8 @@ Relevant experience
 
 Additional experiences and competencies
 ------
+* **Cruises**: Trainer aboard the RV Heincke guiding undergraduate and master’s students
+on CTD operations (Mar 28–-Apr 2, 2025)
 * **Volunteering**: Social convener and oceanography representative for the Earth and Atmospheric
 Sciences graduate students' society (2022-2023)
 * **Languages**: English (native), French (intermediate), German (can order a coffee)
