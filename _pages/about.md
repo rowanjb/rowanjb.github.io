@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am broadly interested in polar ocean dynamics, particularly convection, and its role in global climactic changes like weakening overturning circulation and sea ice loss.
+I am broadly interested in polar ocean dynamics, particularly convection, and its role in global climactic changes like a weakening of the overturning circulation and sea ice loss.
 
 My lofty ambitions are to help mitigate these changes by working at the intersection of submesoscale (i.e., fairly small) fluid dynamics and climate science. Failing this, I am at least having fun with tools like the [MITgcm](https://mitgcm.readthedocs.io/en/latest/) and [NEMO](https://www.nemo-ocean.eu) models. 
 
-In my ongoing PhD research, I'm working on understanding the role of convection in setting the structure of the Southern Ocean. In particular, I'm taking a primarily model-based approach to studying how convective plumes might be an overlooked player in the upwelling of ice melt-inducing intermediate waters around Antarctica. My basic motivation is that Earth System Models (ESMs), like those used in the IPCC's Coupled Model Intercomparison Projects (CMIPs), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable to directly represent convective plumes. If we can figure out a way to put accurate convection into ESMs, I hope we can ultimately instil a bit more faith into ESMs' predictions of future climactic changes. 
+In my ongoing PhD research, I'm working on understanding the role of convection in setting the structure of the Southern Ocean. In particular, I'm taking a primarily model-based approach to studying how convective plumes might be an overlooked player in the upwelling of ice melt-inducing intermediate waters around Antarctica. My basic motivation is that Earth System Models (ESMs), like those used in the Coupled Model Intercomparison Project Phase 6 (CMIP6), have a hard time with the Southern Ocean; I believe this is in no small part because they are unable to directly represent convective plumes. If we can figure out a way to put accurate convection into ESMs, I hope we can ultimately instil a bit more faith into ESMs' predictions of future climactic changes. 
 
 (My secondary motivation is that ocean convection is just plain cool, see: [Stommel, 1962](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766).)
 
