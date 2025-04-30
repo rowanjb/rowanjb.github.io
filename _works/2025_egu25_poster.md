@@ -1,6 +1,6 @@
 ---
 title: "EGU25 poster and plume video"
-excerpt: 'Essentially showing what do I mean by "shallow open-ocean convective plumes"'
+excerpt: 'Showing what I mean by "shallow open-ocean convective plumes"'
 collection: works
 ---
 
