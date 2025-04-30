@@ -1,6 +1,6 @@
 ---
-title: "Plume video"
-excerpt: 'What do I mean by "shallow open-ocean convective plumes?'
+title: "EGU25 poster and plume video"
+excerpt: 'Essentially showing what do I mean by "shallow open-ocean convective plumes"'
 collection: works
 ---
 
@@ -26,5 +26,8 @@ My current model setup is based on the `tutorial_deep_convection` test case with
  * Advection scheme: `tempAdvScheme` and `saltAdvScheme` are both $33$ and diffusivities are all $0$
  * Viscosity: `viscAh` and `viscAz` are both $4 \times 10^{-2}$
 
-There are still lots of improvements to be made, but this is my current best effort!.
- 
+There are still lots of improvements to be made, but this is my current best effort!
+
+I made this video to accompany the following poster, which itself was made for the EGU General Assembly 2025.
+
+![OS poster](/images/RowanBrown_EGU25_poster_final.png)
