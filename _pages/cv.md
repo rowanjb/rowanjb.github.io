@@ -36,7 +36,7 @@ Awards and honours
 
 Significant works
 ------
-* [**Brown, R.**, Haumann, A., Losch, M., Rauch, C., & Janout, M. (2025, April 27--May 2). *Shallow open-ocean convection in the Weddell Sea: A case study using observations and modelling techniques* [Conference presentation]. EGU General Assembly 2025, Vienna, Austria, EGU25-6934](https://rowanjb.github.io/works/2025_egu25_poster/) [https://doi.org/10.5194/egusphere-egu25-6934](https://doi.org/10.5194/egusphere-egu25-6934)
+* [**Brown, R.**, Haumann, A., Losch, M., Rauch, C., & Janout, M. (2025, April 27--May 2). *Shallow open-ocean convection in the Weddell Sea: A case study using observations and modelling techniques* [Conference presentation]. EGU General Assembly 2025, Vienna, Austria, EGU25-6934](https://rowanjb.github.io/works/2025_egu25_poster/) [https://doi.org/10.5194/egusphere-egu25-6934]
 * [**Brown, R.** (2024). *The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models* [Master's thesis]. University of Alberta Education and Research Archive, 1--88.](https://doi.org/10.7939/r3-rw65-sp84)
 * [**Brown, R.**, & Myers, P. G. (2024, February 18--23). *Mixing Processes in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models* [Conference presentation]. The Ocean Sciences Meeting 2024, New Orleans, LA, USA.](https://rowanjb.github.io/works/202402_OS_poster/)
 * [Manzur Tirado, A. M., **Brown, R.**, & Valdez Banda, O. A. (2019). *Risk and safety management of autonomous systems: a literature review and initial proposals for the maritime industry*. Aalto University publication series SCIENCE + TECHNOLOGY 1/2019, 1-66.](http://urn.fi/URN:ISBN:978-952-60-8499-2)
