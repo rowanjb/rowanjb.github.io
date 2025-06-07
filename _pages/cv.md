@@ -85,12 +85,13 @@ Sciences graduate students' society (2022-2023)
 * **Languages**: English (native), French (intermediate), German (can order a coffee)
 * **Memberships**: The Canadian Meteorological and Oceanographic Society ([CMOS](https://www.cmos.ca)); The Society of Naval Architects and Marine Engineers ([SNAME](https://www.sname.org)); The European Geosciences Union ([EGU](https://www.egu.eu))
 
-Tech skills
+Tech skills and selected workshops
 ------
 I always feel awkward writing what *I* think I'm good at. I *do* however have demonstrable experience with the following:
-* Python and MATLAB, including small to large datasets from model, climatological (e.g., WOA), and observational (e.g., Argo) sources 
+* Python and MATLAB, including handling small to large datasets from model, climatological (e.g., WOA), and observational (e.g., Argo, mooring) sources 
 * Modelling skills, i.e., 
-  * Setting up and running models on HPCs and supercomputers
+  * Setting up and running models (MITgcm, NEMO) on HPCs and supercomputers
   * Numerical methods (relevant coursework at UAlberta: [Advanced Atmosphere-Ocean-Climate Modelling](https://apps.ualberta.ca/catalogue/course/eas/571))
-  * Low-abstraction languages (Fortran and a bit of C) and parallelization (MPI) (relevant one-week workshop: [Parallel programming with MPI and OpenMP](https://www.bremhlr.uni-bremen.de/events/mpi-openmp-workshop/))
+  * Low-abstraction languages (Fortran and a bit of C) and parallelisation (relevant workshops: [Parallel programming with MPI and OpenMP](https://www.bremhlr.uni-bremen.de/events/mpi-openmp-workshop/); [DASK](https://training.computeontario.ca/courses/enrol/index.php?id=128); [Multicore Parallel Programming (OpenMP)](https://training.computeontario.ca/courses/enrol/index.php?id=144), [Parallel Programming with MPI](https://training.computeontario.ca/courses/enrol/index.php?id=147); [Fortran as a Second Language](https://training.computeontario.ca/courses/enrol/index.php?id=166); [Introduction to C](https://training.computeontario.ca/courses/enrol/index.php?id=34))
 * Git! e.g., [my GitHub](https://github.com/rowanjb)
+* Paper writing (relevant eight-week workshop: [Paper Writing Academy](https://tressacademic.com/learn-with-us/publish/pwa/))
