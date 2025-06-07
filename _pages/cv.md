@@ -24,16 +24,6 @@ Education
   **Memorial University of Newfoundland**, Canada
   * Equivalent requirements for a Minor in Mathematics completed in 2021
 
-Awards and honours
-------
-* $1,500 Faculty of Graduate & Postdoctoral Studies Travel Award, 2024
-* $500 Graduate Students' Association Academic Travel Grant, 2024
-* $1,500 Roy Dean Hibbs Memorial Travel Award, 2023
-* $17,500 Canada Graduate Scholarship - Master's (CGS M), 2023
-* $7,100 Walter H Johns Graduate Fellowship, 2023
-* $6,000 Mitacs Globalink Research Award, 2019
-* $2,800 Professor Bill Milne Memorial Scholarship, 2017
-
 Significant works
 ------
 * [**Brown, R.**, Haumann, A., Losch, M., Rauch, C., & Janout, M. (2025, April 27--May 2). *Shallow open-ocean convection in the Weddell Sea: A case study using observations and modelling techniques* [Conference presentation]. EGU General Assembly 2025, Vienna, Austria](https://rowanjb.github.io/works/2025_egu25_poster/) [https://doi.org/10.5194/egusphere-egu25-6934](https://doi.org/10.5194/egusphere-egu25-6934)
@@ -95,3 +85,13 @@ I always feel awkward writing what *I* think I'm good at. I *do* however have de
   * Low-abstraction languages (Fortran and a bit of C) and parallelisation (relevant workshops: [Parallel programming with MPI and OpenMP](https://www.bremhlr.uni-bremen.de/events/mpi-openmp-workshop/); [DASK](https://training.computeontario.ca/courses/enrol/index.php?id=128); [Multicore Parallel Programming (OpenMP)](https://training.computeontario.ca/courses/enrol/index.php?id=144), [Parallel Programming with MPI](https://training.computeontario.ca/courses/enrol/index.php?id=147); [Fortran as a Second Language](https://training.computeontario.ca/courses/enrol/index.php?id=166); [Introduction to C](https://training.computeontario.ca/courses/enrol/index.php?id=34))
 * Git! e.g., [my GitHub](https://github.com/rowanjb)
 * Paper writing (relevant eight-week workshop: [Paper Writing Academy](https://tressacademic.com/learn-with-us/publish/pwa/))
+
+Awards and honours
+------
+* $1,500 Faculty of Graduate & Postdoctoral Studies Travel Award, 2024
+* $500 Graduate Students' Association Academic Travel Grant, 2024
+* $1,500 Roy Dean Hibbs Memorial Travel Award, 2023
+* $17,500 Canada Graduate Scholarship - Master's (CGS M), 2023
+* $7,100 Walter H Johns Graduate Fellowship, 2023
+* $6,000 Mitacs Globalink Research Award, 2019
+* $2,800 Professor Bill Milne Memorial Scholarship, 2017
