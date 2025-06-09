@@ -21,10 +21,10 @@ My work is part of the [EU-funded](https://cordis.europa.eu/project/id/101041743
 
 Relevant interests
 ======
-* Numerical modelling, including general circulation models and large eddy simulations
-* Submesoscale (and smaller) fluid dynamics, especially ocean convection
-* Polar oceanography and sea ice
-* History and literature around oceanography and polar exploration, e.g., 
+* Numerical modelling, including general circulation models and large eddy simulations.
+* Submesoscale (and smaller) fluid dynamics, especially ocean convection.
+* Polar oceanography and sea ice.
+* History and literature around oceanography and polar exploration. Some of my faves: 
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
   * [*At the Mountains of Madness*](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) by H. P. Lovecraft
