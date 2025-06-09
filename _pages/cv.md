@@ -18,7 +18,7 @@ Education
   * Supervisor: Prof. Dr. Alexander Haumann
 * **Master of Science** in Earth and Atmospheric Sciences, 2024\\
   **University of Alberta**, Canada
-  * Thesis: *The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models*
+  * Thesis: [*The Effects of Tides and Submesoscale Mixed Layer Eddies on Deep Convection in the Labrador Sea: Simulations at Resolutions Consistent with Coupled Climate Models*](https://doi.org/10.7939/r3-rw65-sp84)
   * Supervisor: Dr. Paul Myers
 * **Bachelor of Engineering** in Ocean and Naval Architectural Engineering, 2020\\
   **Memorial University of Newfoundland**, Canada
