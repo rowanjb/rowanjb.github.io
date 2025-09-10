@@ -15,7 +15,7 @@ My current model setup is based on the `tutorial_deep_convection` test case with
  * Horizontal resolution: $20$ m
  * Vertical resolution: Variable from $1$ m to $38$ m
  * Domain: $150$ $\times$ $150$ $\times$ $50$ grid cells (i.e., $3$ km $\times$ $3$ km $\times$ $500$ m)
- * Initialisation: Temperature and salt profile from mooring timeseries (September 13, 2021) with WOA September climatology used to fill above and below the mooring measurements; initial velocities are $0$ m/s in all directions 
+ * Initialisation: Temperature and salt profile from mooring time series (September 13, 2021) with WOA September climatology used to fill above and below the mooring measurements; initial velocities are $0$ m/s in all directions 
  * Timestep: $3$ s
  * Equation of state: TEOS-10
  * Coriolis: $f_0=-1.358 \times 10^{-4}$, $\beta=8.194 \times 10^{-12}$
@@ -30,4 +30,4 @@ There are still lots of improvements to be made, but this is my current best eff
 
 I made this video to accompany the following poster, which itself was made for the EGU General Assembly 2025.
 
-![OS poster](/images/RowanBrown_EGU25_poster_final.png)
+![EGU25 poster](/images/RowanBrown_EGU25_poster_final.png)
