@@ -7,7 +7,7 @@ collection: works
 My newest plume video:
 
 <video width="519" height="360" controls>
-  <source src="/files/plume2D_mrb_081_T.mp4" type="video/mp4">
+  <source src="/files/plume2D_mrb_081_T_H264_v2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
