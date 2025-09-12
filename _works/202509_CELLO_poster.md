@@ -7,7 +7,7 @@ collection: works
 My newest plume video:
 
 <video width="519" height="360" controls>
-  <source src="/files/plume2D_mrb_052_T.mp4" type="video/mp4">
+  <source src="/files/plume2D_mrb_081_T.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -23,8 +23,8 @@ This model setup is based on the `tutorial_deep_convection` test case with the f
  * Surface forcing: Constant salt flux of $0.03$ g m$^{-2}$ s$^{-1}$ and heat flux of -$200$ W m$^{-2}$
  * Surface temperature limitation (i.e., `allowFreezing=.TRUE.`): `Tfreezing=-1.85` (i.e., a wee bit of supercooling)
  * Non-hydrostatic solver: `cg3dMaxIters=40` 
- * Advection scheme: `tempAdvScheme` and `saltAdvScheme` are both $33$ and diffusivities are all $0$
- * Viscosity: therein lies the question... 
+ * Advection scheme: `tempAdvScheme` and `saltAdvScheme` are both $33$ (and diffusivities are all $0$)
+ * Viscosity: therein lies the question... for this run, `viscC2Smag=3.1` and `viscAz=1.E-4`, but this may need to change in future iterations
 
 There are still lots of improvements to be made, but this is my current best effort!
 
