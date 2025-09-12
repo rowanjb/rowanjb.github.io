@@ -11,10 +11,10 @@ My newest plume video:
   Your browser does not support the video tag.
 </video>
 
-This model setup is based on the `tutorial_deep_convection` test case with the following modifications:
+This model setup uses the MITgcm `tutorial_deep_convection` test case with the following modifications:
  * Resolution: $2$ m $\times$ $2$ m $\times$ $2$ m
  * Domain: $198$ $\times$ $198$ $\times$ $198$ grid cells
- * Initialisation: Temperature and salt profile from mooring time series (three-day mean around September 4, 2021) with a normalised WOA September climatology used to fill at each depth level (temperature is prevented from freezing and static instabilities are homogenised to ensure $N**2 > 0$). This results in a staircase and other sharp points in the potential density profile which are smoothed out using a short integration with very high diffusivities.
+ * Initialisation: Temperature and salt profile from mooring time series (two-day mean around September 4, 2021) with a normalised WOA September climatology used to fill at each depth level (temperature is prevented from freezing and static instabilities are homogenised to ensure $N^2 ≥ 0$). This results in a staircase and other sharp points in the potential density profile which are smoothed out using a short integration with very high diffusivities.
  * Initial velocities are $0$ m s$^{-1}$ in all directions 
  * Timestep: $2$ s
  * Equation of state: TEOS-10
