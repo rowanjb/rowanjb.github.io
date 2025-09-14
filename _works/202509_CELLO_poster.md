@@ -28,4 +28,4 @@ This model setup uses the MITgcm `tutorial_deep_convection` test case with the f
 
 There are still lots of improvements to be made, but this is my current best effort!
 
-![CELLO poster](/images/RowanBrown_EGU25_poster_final.png)
+![CELLO poster](/images/Brown_CELLO_poster.png)
