@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,8 +15,7 @@ If you're interested, you can check out my PhD proposal [here](https://rowanjb.g
 
 My project is part of the [EU-funded](https://cordis.europa.eu/project/id/101041743) [VERTEXSO project](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/) under the leadership of [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/) and the [Alfred Wegener Institute (AWI)](https://www.awi.de/en/science/junior-groups/so-clim/projects.html) in the [SO-CLIM group](https://www.awi.de/en/science/junior-groups/so-clim.html).
 
-Interests
-======
+Misc. interests:
 * Numerical modelling (NEMO, MITgcm).
 * Submesoscale (and smaller) fluid dynamics, especially w/r/t ocean convection.
 * Polar topics and sea ice.
