@@ -16,7 +16,7 @@ If you're interested, you can check out my PhD proposal [here](https://rowanjb.g
 My project is part of the [EU-funded](https://cordis.europa.eu/project/id/101041743) [VERTEXSO project](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/), led by [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/) and the [Alfred Wegener Institute (AWI)](https://www.awi.de/en/science/junior-groups/so-clim/projects.html).
 
 Professional(ish) interests:
--------
+=============================
 * Numerical modelling (NEMO, MITgcm)
 * (Sub)mesoscale fluid dynamics, especially w/r/t convection
 * Sea ice and the high latitudes
