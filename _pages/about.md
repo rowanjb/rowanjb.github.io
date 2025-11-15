@@ -13,7 +13,7 @@ In my PhD I'm working on understanding the role of convection in setting the sur
 
 If you're interested, you can check out my PhD proposal [here](https://rowanjb.github.io/files/AWI_TAC_proposal.pdf).
 
-My project is part of the [EU-funded](https://cordis.europa.eu/project/id/101041743) [VERTEXSO project](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/), led by [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/) and the [Alfred Wegener Institute (AWI)](https://www.awi.de/en/science/junior-groups/so-clim/projects.html).
+My PhD is part of the [EU-funded](https://cordis.europa.eu/project/id/101041743) [VERTEXSO project](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/), led by [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/) and the [Alfred Wegener Institute (AWI)](https://www.awi.de/en/science/junior-groups/so-clim/projects.html).
 
 Professional(ish) interests:
 ========================================================================
