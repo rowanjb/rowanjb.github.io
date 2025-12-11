@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am broadly interested in polar ocean dynamics, particularly convection, and its role in global climactic changes like a weakening of the overturning circulation and sea ice loss.
+Servus!
+========================================================================
+
+I am broadly interested in polar ocean dynamics, particularly convection, and its role in global climatic changes like a weakening of the overturning circulation and sea ice loss.
 
 In my PhD I'm working on understanding the role of convection in setting the surface structure of the Southern Ocean, mainly using MITgcm but also some observational and reanalysis data.
 
