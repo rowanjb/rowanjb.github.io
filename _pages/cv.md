@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* **Doctoral student** in Oceanography, est. 2027 \\
+* **Doctoral candidate** in Oceanography, est. 2027 \\
   **Ludwig-Maximilians-Universität München** (LMU), Germany\\
   **Alfred-Wegener-Institut** (AWI), Germany
   * Thesis: *Towards Realistically Modelling Southern Ocean Convection*
