@@ -74,7 +74,7 @@ on CTD operations (Mar 28–Apr 2, 2025)
 * **Volunteering**: Social convener and oceanography representative for the Earth and Atmospheric
 Sciences graduate students' society (2022-2023)
 * **Languages**: English (native), French (intermediate), German (can order a coffee)
-* **Memberships**: The Canadian Meteorological and Oceanographic Society ([CMOS](https://www.cmos.ca)); The Society of Naval Architects and Marine Engineers ([SNAME](https://www.sname.org)); The European Geosciences Union ([EGU](https://www.egu.eu))
+* **Memberships**: The Canadian Meteorological and Oceanographic Society ([CMOS](https://www.cmos.ca)); The Society of Naval Architects and Marine Engineers ([SNAME](https://www.sname.org))
 
 Tech skills and selected workshops
 ------
