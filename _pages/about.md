@@ -33,7 +33,7 @@ In early 2024, I finished my MSc in [Earth and Atmospheric Sciences](https://www
 
 The SWOS expedition to Antarctica
 ========================================================================
-I recently returned from 10 weeks in Antarctica. You may have even [seen it in the news](https://nypost.com/2026/04/10/science/secret-island-discovered-in-antarticas-danger-zone/). I'd be remiss if I didn't share some of my favourite photos.
+I recently returned from 10 weeks in the Weddell Sea. You may have even [seen it in the news](https://nypost.com/2026/04/10/science/secret-island-discovered-in-antarticas-danger-zone/). I'd be remiss if I didn't share some of my favourite photos.
 
 My mate Anton, a sea ice geophysicist, hard at work:
 ![Anton](/images/anton_sunset.png)
