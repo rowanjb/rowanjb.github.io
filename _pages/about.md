@@ -12,7 +12,7 @@ Servus!
 
 I am a PhD candidate with wide interests themed around sea ice and the ocean. In my current position I'm exploring the role of convection in global climatic changes like a weakening of the AMOC and the post-2015 rapid sea ice decline around Antarctica.
 
-My current go-to toolset is a combination of numerical modelling and observations from the field. In the past I've dabbled with vessel motions, tidal and surface wave analysis, ice-breaker design, artificial neural networks, creative writing, etc. etc.
+My current go-to toolset is a combination of numerical modelling and observations from the field. In the past I've dabbled with vessel motions, tidal and surface wave analysis, ice-breaker design, artificial neural networks, and more.
 
 If you're interested, you can check out my PhD proposal [here](https://rowanjb.github.io/files/AWI_TAC_proposal.pdf).
 
