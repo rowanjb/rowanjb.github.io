@@ -27,8 +27,16 @@ Professional(ish) interests:
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
   * [*At the Mountains of Madness*](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) by H. P. Lovecraft
-  * I'm currently reading [*Thinking In Systems: A Primer*](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer) by Donella Meadows, with a growing interest in integrated assessment modelling
+  * I'm currently reading [*Thinking In Systems: A Primer*](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer) by Donella Meadows, with a growing interest in socio-technical systems and particularly integrated assessment modelling
 
 In early 2024, I finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). Before getting into oceanography I studied [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/). 
 
-![Anton](/images/anton_sunset.png) ![Polarstern](/images/polarstern_night.png)
+The SWOS expedition to the Weddell Sea
+========================================================================
+I recently returned from 10 weeks in Antarctica. You may have even [seen it in the news](https://nypost.com/2026/04/10/science/secret-island-discovered-in-antarticas-danger-zone/). I'd be remiss if I didn't share some of my favourite photos:
+
+My mate Anton, a sea ice geophysicist, hard at work:
+![Anton](/images/anton_sunset.png)
+
+The R.V. Polarstern at night:
+![Polarstern](/images/polarstern_night.png)
