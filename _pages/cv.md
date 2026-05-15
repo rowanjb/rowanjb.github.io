@@ -37,7 +37,7 @@ Relevant experience
 * Sep 2024--: **Researcher**\\
   **Ludwig-Maximilians-Universität München** (LMU), Germany\\
   **Alfred-Wegener-Institut** (AWI), Germany
-  * nvestigating whether shallow open-ocean convection plays an overlooked role in the Southern Ocean’s climate
+  * Investigating whether shallow open-ocean convection plays an overlooked role in the Southern Ocean’s climate
   * Performing high-resolution, non-hydrostatic ocean simulations (MITgcm)
   * Supporting the supervision of two student projects on ocean/climate topics
 
