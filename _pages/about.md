@@ -10,9 +10,9 @@ redirect_from:
 Servus!
 ========================================================================
 
-I am broadly interested in polar ocean dynamics, particularly convection, and its role in global climatic changes like a weakening of the overturning circulation and sea ice loss.
+I am a PhD candidate with wide interests themed around sea ice and the ocean. In my current position I'm exploring the role of convection in global climatic changes like a weakening of the AMOC and the post-2015 rapid sea ice decline around Antarctica.
 
-In my PhD I'm working on understanding the role of convection in setting the surface structure of the Southern Ocean, mainly using MITgcm but also some observational and reanalysis data.
+My current go-to toolset is a combination of numerical modelling and observations from the field. In the past I've dabbled with vessel motions, tidal and surface wave analysis, ice-breaker design, artificial neural networks, creative writing, etc. etc.
 
 If you're interested, you can check out my PhD proposal [here](https://rowanjb.github.io/files/AWI_TAC_proposal.pdf).
 
@@ -20,12 +20,15 @@ My PhD is part of the [EU-funded](https://cordis.europa.eu/project/id/101041743)
 
 Professional(ish) interests:
 ========================================================================
-* Numerical modelling (NEMO, MITgcm)
-* (Sub)mesoscale fluid dynamics, especially w/r/t convection
-* Sea ice and the high latitudes
+* Numerical modelling (NEMO, MITgcm) and Linux topics
+* Geophysical fluid dynamics, especially convection
+* Sea ice and the high latitudes, including Arctic sovereignty and the socioeconomic ramifications of Arctic Amplifications
 * Some favourite related books:
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
   * [*At the Mountains of Madness*](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) by H. P. Lovecraft
+  * I'm currently reading [*Thinking In Systems: A Primer*](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer) by Donella Meadows, with a growing interest in integrated assessment modelling
 
 In early 2024, I finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). Before getting into oceanography I studied [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/). 
+
+![Anton](/images/anton_sunset.png) ![Polarstern](/images/polarstern_night.png)
