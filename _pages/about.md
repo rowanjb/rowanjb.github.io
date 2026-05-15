@@ -22,7 +22,7 @@ Professional(ish) interests:
 ========================================================================
 * Numerical modelling (NEMO, MITgcm) and Linux topics
 * Geophysical fluid dynamics, especially convection
-* Sea ice and the high latitudes, including Arctic sovereignty and the socioeconomic ramifications of Arctic Amplifications
+* Sea ice and the high latitudes, including Arctic sovereignty and the socioeconomic ramifications of Arctic Amplification
 * Some favourite related books:
   * [*The Sea Around Us*](https://en.wikipedia.org/wiki/The_Sea_Around_Us#:~:text=The%20Sea%20Around%20Us%20is,to%20the%20latest%20scientific%20probings.) by Rachel Carson
   * [*South*](https://en.wikipedia.org/wiki/South_(book)) by Ernest Shackleton
