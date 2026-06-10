@@ -1,6 +1,6 @@
 ---
-title: "CELLO poster"
-excerpt: 'Essentially a four-month update on EGU25'
+title: "09.2025: CELLO"
+excerpt: 'A 4-month update on my EGU25 poster'
 collection: works
 ---
 

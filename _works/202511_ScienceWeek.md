@@ -1,6 +1,6 @@
 ---
-title: "AWI Science Week poster"
-excerpt: 'Essentially a two-month update on CELLO!'
+title: "11.2025: AWI Science Week"
+excerpt: 'A 2-month update on my CELLO poster'
 collection: works
 ---
 

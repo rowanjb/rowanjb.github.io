@@ -1,5 +1,5 @@
 ---
-title: "Ocean Sciences Poster"
+title: "02.2024: Ocean Sciences"
 excerpt: "Poster from the 2024 Ocean Sciences Meeting in New Orleans"
 collection: works
 ---

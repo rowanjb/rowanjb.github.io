@@ -1,6 +1,6 @@
 ---
-title: "EGU25 poster and plume video"
-excerpt: 'Showing what I mean by "shallow open-ocean convective plumes"'
+title: "05.2025: EGU General Assembly 2025"
+excerpt: 'Poster showing a very preliminary overview of my PhD research on shallow open-ocean convective plumes'
 collection: works
 ---
 
