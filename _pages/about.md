@@ -31,6 +31,8 @@ Professional(ish) interests:
 
 In early 2024, I finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). Before getting into oceanography I studied [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/). 
 
+![plume](/images/convective_plume.gif)
+
 The SWOS expedition to Antarctica
 ========================================================================
 I recently returned from 10 weeks in the Weddell Sea. You may have even [seen it in the news](https://nypost.com/2026/04/10/science/secret-island-discovered-in-antarticas-danger-zone/). I'd be remiss if I didn't share some of my favourite photos.
