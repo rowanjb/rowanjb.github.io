@@ -1,5 +1,5 @@
 ---
-title: "09.2025: CELLO"
+title: "Sep 2025: CELLO"
 excerpt: 'A 4-month update on my EGU25 poster'
 collection: works
 ---

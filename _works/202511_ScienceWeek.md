@@ -1,5 +1,5 @@
 ---
-title: "11.2025: AWI Science Week"
+title: "Nov 2025: AWI Science Week"
 excerpt: 'A 2-month update on my CELLO poster'
 collection: works
 ---

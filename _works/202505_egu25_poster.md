@@ -1,5 +1,5 @@
 ---
-title: "05.2025: EGU General Assembly 2025"
+title: "May 2025: EGU General Assembly 2025"
 excerpt: 'Poster showing a very preliminary overview of my PhD research on shallow open-ocean convective plumes'
 collection: works
 ---
