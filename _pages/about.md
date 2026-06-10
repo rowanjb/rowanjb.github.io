@@ -14,6 +14,9 @@ I am a PhD candidate with wide interests themed around sea ice and the ocean. In
 
 My current go-to toolset is a combination of numerical modelling and observations from the field. In the past I've dabbled with vessel motions, tidal and surface wave analysis, ice-breaker design, artificial neural networks, and more.
 
+Here's an example of some recent modelling work, showing 3D temperature surfaces reacting to a convective plume in the marginal sea ice zone:
+![plume](/images/convective_plume.gif)
+
 If you're interested, you can check out my PhD proposal [here](https://rowanjb.github.io/files/AWI_TAC_proposal.pdf).
 
 My PhD is part of the [EU-funded](https://cordis.europa.eu/project/id/101041743) [VERTEXSO project](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/), led by [Prof. Dr. Alexander Haumann](https://www.ahaumann.net) at [LMU Munich](https://www.geo.lmu.de/geographie/en/research/physical-geography-and-earth-system-interactions/research-projects-publications/vertexso/) and the [Alfred Wegener Institute (AWI)](https://www.awi.de/en/science/junior-groups/so-clim/projects.html).
@@ -30,5 +33,3 @@ Professional(ish) interests:
   * I'm currently reading [*Thinking In Systems: A Primer*](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer) by Donella Meadows, with a growing interest in socio-technical systems and particularly integrated assessment modelling
 
 In early 2024, I finished my MSc in [Earth and Atmospheric Sciences](https://www.ualberta.ca/earth-sciences/index.html) under the supervision of [Dr. Paul Myers](https://apps.ualberta.ca/directory/person/pmyers). Before getting into oceanography I studied [Ocean and Naval Architectural Engineering](https://www.mun.ca/engineering/ona/). 
-
-![plume](/images/convective_plume.gif)
