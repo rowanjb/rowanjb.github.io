@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* **Doctoral candidate** in Oceanography, est. 2027 \\
+* **Doctoral candidate**, est. 2027 \\
   **Ludwig-Maximilians-Universität München** (LMU), Germany\\
   **Alfred-Wegener-Institut** (AWI), Germany
   * Thesis: *Towards Realistically Modelling Southern Ocean Convection*
@@ -34,7 +34,7 @@ Significant works
 
 Relevant experience
 ------
-* Sep 2024--: **Researcher**\\
+* Sep 2024 onwards: **Doctoral researcher**\\
   **Ludwig-Maximilians-Universität München** (LMU), Germany\\
   **Alfred-Wegener-Institut** (AWI), Germany
   * Investigating whether shallow open-ocean convection plays an overlooked role in the Southern Ocean’s climate
