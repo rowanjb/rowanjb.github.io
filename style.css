@@ -960,3 +960,37 @@ footer {
     break-inside: avoid;
   }
 }
+
+
+/* Centre the website */
+.page {
+    width: 100%;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
+
+/* Keep content from touching the screen edges */
+body {
+    margin: 0;
+}
+
+.page {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+/* Make sure images stay within the centred layout */
+.page img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Smaller screens */
+@media (max-width: 600px) {
+    .page {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
