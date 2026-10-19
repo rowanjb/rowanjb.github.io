@@ -313,7 +313,7 @@ aside {
 .intro {
   max-width: 620px;
   margin: 0 0 24px;
-  color: var(--dim);
+  color: #e2e7ec;
 }
 
 /* Lists */
